@@ -44,15 +44,16 @@ export async function listSources(
     results: {
       sources: [
         {
-          name: 'Ethiopia Law',
-          authority: 'National Council for Law Reporting (Ethiopia Law)',
-          url: 'http://lawethiopia.com',
+          name: 'Ethiopian Legal Information Portal',
+          authority: 'lawethiopia.com (Ethiopian Legal Information Portal)',
+          url: 'https://www.lawethiopia.com',
           license: 'Government Open Data',
           coverage:
-            'All Acts of Parliament (revised edition), subsidiary legislation, ' +
-            'the Constitution of Ethiopia (2010), Ethiopia Gazette notices, and selected case law ' +
-            'from superior courts including the Supreme Court, Court of Appeal, and High Court',
-          languages: ['en', 'sw'],
+            'Federal proclamations, regulations, and directives published in the Federal Negarit Gazette. ' +
+            'Includes the Constitution of Ethiopia (1995), major legislative acts from 1995 to present, ' +
+            'covering administrative law, banking, tax, trade, investment, labor, telecommunications, ' +
+            'criminal law, and more. Most content is bilingual (Amharic/English).',
+          languages: ['en', 'am'],
         },
       ],
       database: {

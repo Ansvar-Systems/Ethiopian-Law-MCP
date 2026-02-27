@@ -1,7 +1,15 @@
 node_modules/
 dist/
 data/source/
+data/pdf/
+data/text/
+data/seed/
+data/database.db
+data/database.db-wal
+data/database.db-shm
+data/database.db.lock
 !data/.gitkeep
+!data/census.json
 .env
 .env.*
 *.tgz

@@ -86,12 +86,12 @@ export const TOOLS: Tool[] = [
   {
     name: 'get_provision',
     description:
-      'Retrieve the full text of a specific provision (section/article) from a Ethiopian statute. ' +
-      'Specify a document_id (Act title, short name, or internal ID) and optionally a section or provision_ref. ' +
-      'Omit section/provision_ref to get ALL provisions in the statute (use sparingly — can be large). ' +
-      'Returns provision text, chapter, section number, and metadata. ' +
-      'Supports Act title references (e.g., "Data Protection Act 2019"), abbreviations, and full titles. ' +
-      'For the Constitution, use "Article N"; for Acts, use "Section N" or just the number. ' +
+      'Retrieve the full text of a specific provision (article) from an Ethiopian proclamation or regulation. ' +
+      'Specify a document_id (proclamation title, number, or internal ID) and optionally an article number. ' +
+      'Omit article to get ALL provisions in the statute (use sparingly — can be large). ' +
+      'Returns provision text, part/chapter, article number, and metadata. ' +
+      'Supports proclamation references (e.g., "Computer Crime Proclamation", "Proc. 958/2016"). ' +
+      'For the Constitution, use "Article N"; for proclamations, use the article number. ' +
       'Use this when you know WHICH provision you want. For discovery, use search_legislation instead.',
     inputSchema: {
       type: 'object',
@@ -99,8 +99,8 @@ export const TOOLS: Tool[] = [
         document_id: {
           type: 'string',
           description:
-            'Statute identifier: Act title (e.g., "Data Protection Act 2019"), ' +
-            'short name (e.g., "DPA 2019", "CMCA 2018"), or internal document ID.',
+            'Statute identifier: proclamation title (e.g., "Computer Crime Proclamation"), ' +
+            'number (e.g., "proc-958-2016"), or internal document ID.',
         },
         section: {
           type: 'string',
@@ -117,16 +117,16 @@ export const TOOLS: Tool[] = [
   {
     name: 'validate_citation',
     description:
-      'Validate a Ethiopian legal citation against the database — zero-hallucination check. ' +
+      'Validate an Ethiopian legal citation against the database — zero-hallucination check. ' +
       'Parses the citation, checks that the document and provision exist, and returns warnings about status ' +
-      '(repealed, amended, partially suspended). Use this to verify any citation BEFORE including it in a legal analysis. ' +
-      'Supports formats: "Section 25, Data Protection Act 2019", "s 25, DPA 2019", "Article 31, Constitution of Ethiopia 2010".',
+      '(repealed, amended). Use this to verify any citation BEFORE including it in a legal analysis. ' +
+      'Supports formats: "Article 5, Computer Crime Proclamation", "Article 3, Proc. 958/2016".',
     inputSchema: {
       type: 'object',
       properties: {
         citation: {
           type: 'string',
-          description: 'Citation string to validate. Examples: "Section 25, Data Protection Act 2019", "s 3 Computer Misuse and Cybercrimes Act 2018".',
+          description: 'Citation string to validate. Examples: "Article 5, Computer Crime Proclamation", "Article 3, Proc. 958/2016".',
         },
       },
       required: ['citation'],
@@ -182,10 +182,9 @@ export const TOOLS: Tool[] = [
   {
     name: 'check_currency',
     description:
-      'Check whether a Ethiopian statute or provision is currently in force, amended, repealed, partially suspended, or not yet in force. ' +
-      'Returns the document status, issued date, in-force date, and warnings. ' +
-      'Essential before citing any provision — always verify currency. ' +
-      'Note: Some sections of the Computer Misuse and Cybercrimes Act 2018 were suspended by court order.',
+      'Check whether an Ethiopian proclamation or provision is currently in force, amended, or repealed. ' +
+      'Returns the document status, issued date, and warnings. ' +
+      'Essential before citing any provision — always verify currency.',
     inputSchema: {
       type: 'object',
       properties: {

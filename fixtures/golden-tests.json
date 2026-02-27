@@ -2,6 +2,137 @@
   "$schema": "./golden-tests.schema.json",
   "version": "1.0",
   "mcp_name": "Ethiopia Law MCP",
-  "description": "Golden contract tests for the Ethiopia Law MCP -- add tests after first ingestion",
-  "tests": []
+  "description": "Golden contract tests for the Ethiopia Law MCP — verified against lawethiopia.com PDFs",
+  "tests": [
+    {
+      "id": "search-computer-crime",
+      "category": "search",
+      "description": "Search for computer crime provisions",
+      "tool": "search_legislation",
+      "input": { "query": "computer crime", "limit": 5 },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["computer"]
+      }
+    },
+    {
+      "id": "search-investment",
+      "category": "search",
+      "description": "Search for investment provisions",
+      "tool": "search_legislation",
+      "input": { "query": "investment", "limit": 5 },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["investment"]
+      }
+    },
+    {
+      "id": "search-labor",
+      "category": "search",
+      "description": "Search for labor/employment provisions",
+      "tool": "search_legislation",
+      "input": { "query": "labor employment", "limit": 5 },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1
+      }
+    },
+    {
+      "id": "get-provision-computer-crime-art3",
+      "category": "provision",
+      "description": "Get Article 3 (Illegal Access) of Computer Crime Proclamation",
+      "tool": "get_provision",
+      "input": { "document_id": "proc-958", "section": "3" },
+      "assertions": {
+        "result_not_empty": true,
+        "text_contains": ["access"]
+      }
+    },
+    {
+      "id": "get-provision-computer-crime-art10",
+      "category": "provision",
+      "description": "Get Article 10 (Computer Related Fraud) of Computer Crime Proclamation",
+      "tool": "get_provision",
+      "input": { "document_id": "proc-958", "section": "10" },
+      "assertions": {
+        "result_not_empty": true,
+        "text_contains": ["fraud"]
+      }
+    },
+    {
+      "id": "check-currency-proc-958",
+      "category": "currency",
+      "description": "Check currency of Computer Crime Proclamation",
+      "tool": "check_currency",
+      "input": { "document_id": "proc-958" },
+      "assertions": {
+        "result_not_empty": true,
+        "text_contains": ["in_force"]
+      }
+    },
+    {
+      "id": "list-sources",
+      "category": "metadata",
+      "description": "List data sources and database statistics",
+      "tool": "list_sources",
+      "input": {},
+      "assertions": {
+        "result_not_empty": true,
+        "text_contains": ["ethiopia"]
+      }
+    },
+    {
+      "id": "about",
+      "category": "metadata",
+      "description": "Get server metadata and statistics",
+      "tool": "about",
+      "input": {},
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "build-legal-stance-tax",
+      "category": "legal-stance",
+      "description": "Build legal stance on tax administration",
+      "tool": "build_legal_stance",
+      "input": { "query": "tax administration", "limit": 5 },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1
+      }
+    },
+    {
+      "id": "validate-citation-valid",
+      "category": "citation",
+      "description": "Validate a known-valid citation",
+      "tool": "validate_citation",
+      "input": { "citation": "Article 3, Computer Crime Proclamation" },
+      "assertions": {
+        "result_not_empty": true
+      }
+    },
+    {
+      "id": "search-nonexistent",
+      "category": "edge-case",
+      "description": "Search for nonexistent term returns gracefully",
+      "tool": "search_legislation",
+      "input": { "query": "xyznonexistent12345", "limit": 5 },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "format-citation",
+      "category": "citation",
+      "description": "Format a citation in full format",
+      "tool": "format_citation",
+      "input": { "citation": "Article 5, Computer Crime Proclamation", "format": "full" },
+      "assertions": {
+        "result_not_empty": true
+      }
+    }
+  ]
 }

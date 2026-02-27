@@ -44,12 +44,12 @@ export function getAbout(db: InstanceType<typeof Database>, context: AboutContex
       eu_references: safeCount(db, 'SELECT COUNT(*) as count FROM eu_references'),
     },
     data_source: {
-      name: 'Ethiopia Law',
-      authority: 'National Council for Law Reporting',
-      url: 'http://lawethiopia.com',
+      name: 'Ethiopian Legal Information Portal',
+      authority: 'lawethiopia.com',
+      url: 'https://www.lawethiopia.com',
       license: 'Government Open Data',
-      jurisdiction: 'KE',
-      languages: ['en', 'sw'],
+      jurisdiction: 'ET',
+      languages: ['en', 'am'],
     },
   };
 }
