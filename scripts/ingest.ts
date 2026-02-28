@@ -111,7 +111,9 @@ function checkPdftotext(): boolean {
 /** Extract text from PDF using pdftotext */
 function extractPdfText(pdfPath: string, textPath: string): string {
   try {
-    execSync(`pdftotext "${pdfPath}" "${textPath}"`, {
+    // Redirect stderr to /dev/null -- Ethiopic ligature warnings from
+    // bilingual Amharic/English PDFs can exceed Node's default maxBuffer
+    execSync(`pdftotext "${pdfPath}" "${textPath}" 2>/dev/null`, {
       encoding: 'utf-8',
       timeout: 30000,
     });

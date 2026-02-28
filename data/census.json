@@ -7,9 +7,9 @@
   "agent": "census.ts",
   "summary": {
     "total_laws": 555,
-    "ingestable": 385,
+    "ingestable": 383,
     "ocr_needed": 0,
-    "inaccessible": 170,
+    "inaccessible": 172,
     "excluded": 0
   },
   "laws": [
@@ -619,10 +619,11 @@
       "pdf_url": "http://laws.eag.gov.et/Upload/CassationDecisionsDocument/8559d85e-f6a3-4d37-9ca6-2a8c4844e86e.pdf",
       "status": "in_force",
       "category": "civil-societies-charities",
-      "classification": "ingestable",
+      "classification": "inaccessible",
       "ingested": false,
       "provision_count": 0,
-      "ingestion_date": null
+      "ingestion_date": null,
+      "exclusion_reason": "Source domain (laws.eag.gov.et) unreachable"
     },
     {
       "id": "proc-602-2008",
@@ -1777,9 +1778,9 @@
       "status": "in_force",
       "category": "telecommunication-and-digitization-laws",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 56,
+      "ingestion_date": "2026-02-28"
     },
     {
       "id": "proc-1133",
@@ -1790,9 +1791,9 @@
       "status": "in_force",
       "category": "election",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 29,
+      "ingestion_date": "2026-02-28"
     },
     {
       "id": "proc-1162",
@@ -3258,10 +3259,11 @@
       "pdf_url": "https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/276.pdf",
       "status": "in_force",
       "category": "health",
-      "classification": "ingestable",
+      "classification": "inaccessible",
       "ingested": false,
       "provision_count": 0,
-      "ingestion_date": null
+      "ingestion_date": null,
+      "exclusion_reason": "Source PDF corrupt (invalid XRef table, zero pages)"
     },
     {
       "id": "proc-718-2011",
@@ -3675,9 +3677,9 @@
       "status": "in_force",
       "category": "science-and-technology",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 29,
+      "ingestion_date": "2026-02-28"
     },
     {
       "id": "proc-1048-2017",
@@ -3935,9 +3937,9 @@
       "status": "in_force",
       "category": "excise-tax",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 44,
+      "ingestion_date": "2026-02-28"
     },
     {
       "id": "proc-1206-2020",
@@ -5482,9 +5484,9 @@
       "status": "in_force",
       "category": "cooperatives",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 75,
+      "ingestion_date": "2026-02-28"
     },
     {
       "id": "proc-986-2017",
@@ -5677,9 +5679,9 @@
       "status": "in_force",
       "category": "natural-resources-environment",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 26,
+      "ingestion_date": "2026-02-28"
     },
     {
       "id": "proc-1097-2018",
@@ -5716,9 +5718,9 @@
       "status": "in_force",
       "category": "special-offenses-procedures",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 48,
+      "ingestion_date": "2026-02-28"
     },
     {
       "id": "proc-1205-2020",
@@ -5729,9 +5731,9 @@
       "status": "in_force",
       "category": "telecommunication-and-digitization-laws",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 40,
+      "ingestion_date": "2026-02-28"
     },
     {
       "id": "proc-1207-2020",
@@ -5794,9 +5796,9 @@
       "status": "in_force",
       "category": "natural-resources-environment",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 39,
+      "ingestion_date": "2026-02-28"
     },
     {
       "id": "proc-1229-2020",
@@ -5937,9 +5939,9 @@
       "status": "in_force",
       "category": "public-finance",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 71,
+      "ingestion_date": "2026-02-28"
     },
     {
       "id": "proc-699-2010",
@@ -6353,9 +6355,9 @@
       "status": "in_force",
       "category": "public-services",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 58,
+      "ingestion_date": "2026-02-28"
     },
     {
       "id": "proc-534-2007",
@@ -6756,9 +6758,9 @@
       "status": "in_force",
       "category": "public-finance",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 71,
+      "ingestion_date": "2026-02-28"
     },
     {
       "id": "the-ethiopian-health-and-nutrition-research",
