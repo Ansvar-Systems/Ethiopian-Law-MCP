@@ -21,7 +21,7 @@
 | Ingested | 383 |
 | Excluded | 172 |
 | Provisions extracted | 8,723 |
-| **Coverage** | **100.0%** |
+| **Coverage** | **100%** |
 
 ## Laws (383 ingested)
 
@@ -63,7 +63,7 @@
 | Charities and Societies Proclamation no. 621/2009 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/621.ae..pdf) | in_force | 95 |
 | Civil Aviation Proclamation no. 616/2008 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/616.ae..pdf) | in_force | 78 |
 | Coffee Quality Control and Marketing Proclamation no. 602/2008 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/602.pdf) | in_force | 20 |
-| Commercial Cases Bench Book | [link](https://www.lawethiopia.com/images/Documents/Ethiopian%20benchbook/Commercial%20Bench%20Proceedings%20Code%20(Amharic).pdf) | in_force | 7 |
+| Commercial Cases Bench Book | [link](https://www.lawethiopia.com/images/Documents/Ethiopian benchbook/Commercial Bench Proceedings Code (Amharic).pdf) | in_force | 7 |
 | Commercial Registration and Business Licensing | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/731.pdf) | in_force | 3 |
 | Condominium Proclamation no. 370/2003 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/370.pdf) | in_force | 39 |
 | Conform with the Constitution of the Federal Democratic | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/87.pdf) | in_force | 37 |
@@ -71,8 +71,8 @@
 | Constitution of the International Labor Organization Instrument of Amendment Ratification Proclamation 128/1998 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/128.pdf) | in_force | 3 |
 | Constitutional Inquiry Procedure (Council of Constitutional Inquiry) | [link](https://www.lawethiopia.com/images/Documents/constitutional%20inquiry%20procedure.pdf) | in_force | 36 |
 | Constitutional Interpretation Procedure Directive | [link](https://www.lawethiopia.com/images/Documents/Constitutional%20Interpretation%20Directive%20No.%206_2014.pdf) | in_force | 14 |
-| Constitutional Interpretation Procedure Directive (House of Federation) | [link](https://www.lawethiopia.com/images/Documents/Constitutional%20Interpretation%20Directive%20No.%206_2014.pdf) | in_force | 14 |
-| Construction Audit Directive | [link](https://www.lawethiopia.com/images/034%20የኮንስትራክሽን%20ኦዱት%20መመሪያ%2034%202013%20ዓም.pdf) | in_force | 25 |
+| Constitutional Interpretation Procedure Directive (House of Federation) | [link](https://www.lawethiopia.com/images/Documents/Constitutional Interpretation Directive No. 6_2014.pdf) | in_force | 14 |
+| Construction Audit Directive | [link](https://www.lawethiopia.com/images/034 የኮንስትራክሽን ኦዱት መመሪያ 34 2013 ዓም.pdf) | in_force | 25 |
 | Control Proclamation no. 661/2009 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/661.pdf) | in_force | 46 |
 | Convention Concerning Prohibition and immediate Action for the Elimination of the Worst Forms of child Labor Ratification Proclamation no. 335/2003 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/335.pdf) | in_force | 3 |
 | Convention For the Safeguarding of the Intangible Cultural Heritage Ratification Proclamation no. 484/2006 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/484.pdf) | in_force | 4 |
@@ -84,7 +84,7 @@
 | Cooperatives' Proclamation No. 147/98 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/147.pdf) | in_force | 54 |
 | Council of Constitutional Inquiry | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/250.pdf) | in_force | 35 |
 | Council of Ministers Regulations no. 40/1998 | [link](https://www.lawethiopia.com/images/regulations_by_numbers/40.pdf) | in_force | 15 |
-| Court Annexed Arbitration Directive | [link](https://www.lawethiopia.com/images/Documents/Ethiopian%20benchbook/የፌዴራል%20ፍርድ%20ቤት%20መር%20አስማሚነት%20መመሪያ%20ቁ.12-2014%20%20%20Federal%20Court%20annexed%20mediation%20directive%2012-2022.pdf) | in_force | 14 |
+| Court Annexed Arbitration Directive | [link](https://www.lawethiopia.com/images/Documents/Ethiopian benchbook/የፌዴራል ፍርድ ቤት መር አስማሚነት መመሪያ ቁ.12-2014   Federal Court annexed mediation directive 12-2022.pdf) | in_force | 14 |
 | Court Fee Legal Notice no. 177/1945 EC | [link](https://www.lawethiopia.com/images/ethiopian%20court%20fee.pdf) | in_force | 129 |
 | Defense Forces Proclamation no. 27/1996 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/27.pdf) | in_force | 31 |
 | Defense Forces Proclamation No.1100 /2019 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/Proclamation-No.-1100-2019-Defense-Forces-Proclamation.pdf) | in_force | 75 |
@@ -93,10 +93,10 @@
 | Definition of Powers and Duties of the Executive Organs of the Federal Democratic Republic of Ethiopia | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/691.pdf) | in_force | 37 |
 | Definition of Powers and Duties of the Executive Organs of the Federal Democratic Republic of Ethiopia Proclamation No. 471/2005(as amended) (Repealed by Proclamation No. 691/2010) | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/471.pdf) | in_force | 33 |
 | Development Conservation and Utilization of Wildlife Proclamation no. 541/2007 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/541.ae..pdf) | in_force | 20 |
-| Directive on Federal Court Civil case caseflow management | [link](https://www.lawethiopia.com/images/የፌዴራል%20ፍርድ%20ቤቶች%20የፍትሐብሔር%20ጉዳዮች%20ፍሰት%20አስተዳደር%20-%20መመሪያ%20ቁጥር%20008-2013.pdf) | in_force | 19 |
+| Directive on Federal Court Civil case caseflow management | [link](https://www.lawethiopia.com/images/የፌዴራል ፍርድ ቤቶች የፍትሐብሔር ጉዳዮች ፍሰት አስተዳደር - መመሪያ ቁጥር 008-2013.pdf) | in_force | 19 |
 | Dissolution Proclamation no. 521/2007 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/521.ae..pdf) | in_force | 4 |
 | download | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/Capital-Market-Proclamation-No.1248-2021-unlocked.pdf) | in_force | 94 |
-| Draft Advocates Proclamation | [link](https://www.lawethiopia.com/images/draft%20laws/Draft%20Advocate's%20Proclamation%20-%20Amharic%20Version.pdf) | in_force | 0 |
+| Draft Advocates Proclamation | [link](https://www.lawethiopia.com/images/draft laws/Draft Advocate's Proclamation - Amharic Version.pdf) | in_force | 0 |
 | Driver’s Qualification Certification License | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/600.pdf) | in_force | 25 |
 | Drug Administration and ControlProclamation no. 176/1999 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/176.pdf) | in_force | 38 |
 | Drug Fund and Pharmaceuticals Supply Agency | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/553.ae..pdf) | in_force | 20 |
@@ -123,7 +123,7 @@
 | Ethiopian Civil Aviation Authority Re-establishment Proclamation 273/2002 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/273.pdf) | in_force | 19 |
 | Ethiopian Communication Service Proclamation no.1148/2019 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/2022-06-23T12-21-40.305ZCommunications-service-proclamation-1148-2019.pdf) | in_force | 56 |
 | Ethiopian Election Board Establishment Proclamation no. 1133 | [link](https://www.lawethiopia.com/images/Proc-133-NEBE.pdf) | in_force | 29 |
-| Ethiopian Electoral law proclamation no. 1162 | [link](https://www.lawethiopia.com/images/Ethiopian%20Election%20Proclamation%201162%202019.pdf) | in_force | 155 |
+| Ethiopian Electoral law proclamation no. 1162 | [link](https://www.lawethiopia.com/images/Ethiopian Election Proclamation 1162 2019.pdf) | in_force | 155 |
 | Ethiopian Federal Police Commission Establishment | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/720.pdf) | in_force | 25 |
 | Ethiopian Human Rights Commission | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/210.pdf) | in_force | 38 |
 | Ethiopian National Anthem Proclamation no. 673/2010 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/673.pdf) | in_force | 16 |
@@ -146,10 +146,10 @@
 | Federal Courts Advocates' License, Exam and Registration of Lawyers Fees Council of Ministers Regulations no. 65/2000 | [link](https://www.lawethiopia.com/images/regulations_by_numbers/65.pdf) | in_force | 4 |
 | Federal Courts of Sharia Consolidation Proclamation No. 188/1999 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/188.pdf) | in_force | 24 |
 | Federal Courts Proclamation 25/1996 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/25.pdf) | in_force | 32 |
-| Federal Courts Proclamation no. 1234/2021 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/Federal%20Courts%20Proclamation%201234-2013.pdf) | in_force | 58 |
+| Federal Courts Proclamation no. 1234/2021 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/Federal Courts Proclamation 1234-2013.pdf) | in_force | 58 |
 | Federal Courts Proclamation Reamendment Proclamation No. 454/2005 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/454.pdf) | in_force | 4 |
 | Federal Ethics and Anti-Corruption Commission Establishment Proclamation no. 235/2001 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/235.pdf) | in_force | 25 |
-| Federal Government law drafting manual | [link](https://www.lawethiopia.com/images/በኢትዮጵያ%20ፌዴራላዊ%20ዲሞክራሲያዊ%20ሪፐብሊክ%20መንግሥት%20የሕግ%20አወጣጥ%20ሂደትና%20የሕግ%20ረቂቅ%20ዝግጅት%20ማኑዋል.pdf) | in_force | 6 |
+| Federal Government law drafting manual | [link](https://www.lawethiopia.com/images/በኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ መንግሥት የሕግ አወጣጥ ሂደትና የሕግ ረቂቅ ዝግጅት ማኑዋል.pdf) | in_force | 6 |
 | Federal High Court Establishment Proclamation 322/2003 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/322.pdf) | in_force | 4 |
 | Federal Judicial Administration Commission Establishment Proclamation no. 24/1996 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/24.pdf) | in_force | 14 |
 | Federal Police Commission Proclamation 313/2003 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/313.pdf) | in_force | 28 |
@@ -172,7 +172,7 @@
 | Higher Education Proclamation no. 351/2003 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/351.pdf) | in_force | 93 |
 | Higher Education Proclamation no. 650/2009 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/650.pdf) | in_force | 99 |
 | House of Peoples' Representatives Legislative Procedure, Committees Structure and Working Proclamation Proc. no. 271/2002 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/271.pdf) | in_force | 27 |
-| Identity, Border Dispute and Conflict Handling Procedure Directive | [link](https://www.lawethiopia.com/images/Documents/_Edited%20%20final%20._መመሪያ_2014%20%20.Identity.pdf) | in_force | 17 |
+| Identity, Border Dispute and Conflict Handling Procedure Directive | [link](https://www.lawethiopia.com/images/Documents/_Edited  final ._መመሪያ_2014  .Identity.pdf) | in_force | 17 |
 | images/federal_proclamation/proclamations_by_number/68.pdf | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/68.pdf) | in_force | 13 |
 | Immigration Proclamation no. 354/2003 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/257.pdf) | in_force | 6 |
 | Institute of Biodiversity Conservation and Research Establishment /Amendment! Proclamation 381/2004 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/315.pdf) | in_force | 20 |
@@ -207,43 +207,43 @@
 | Privatization of Public Enterprises (Amendment) Proclamation No. 182-1999 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/182.pdf) | in_force | 3 |
 | Procamation no. 934 Rights and Benefits of Outgoing Heads of State and Government, Senior Government Officials, Members of Parliament and Judges (amendment) | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/934.pdf) | in_force | 3 |
 | Procedure of Pardon Proclamation No. 395/2004 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/340.pdf) | in_force | 2 |
-| proclamation 1177 Firearms Administration And Control Proclamation of Ethiopia | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/A%20PROCLAMATION%20TO%20PROVIDE%20FOR%20FIREARM%20ADMINISTRATION%20AND%20CONTROL%20OF%20THE%20FEDERAL%20DEMOCRATIC%20REPUBLIC%20OF%20ETHIOPIA.pdf) | in_force | 25 |
+| proclamation 1177 Firearms Administration And Control Proclamation of Ethiopia | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/A PROCLAMATION TO PROVIDE FOR FIREARM ADMINISTRATION AND CONTROL OF THE FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA.pdf) | in_force | 25 |
 | Proclamation 47/1996 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/47.pdf) | in_force | 14 |
 | Proclamation 686/2010 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/686.ae..pdf) | in_force | 55 |
 | Proclamation 720/2011 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/720.pdf) | in_force | 25 |
 | Proclamation Concerning Inventions, Minor Inventions and Industrial Designs, proclamation No. 123/1995 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/123.pdf) | in_force | 19 |
-| Proclamation no 1144 Transaction of Minerals | [link](https://www.lawethiopia.com/images/latest%20proclamations/1144%20Proc.-No-1144_2019-Transaction-of-Minerals-Proclamation.pdf) | in_force | 3 |
-| Proclamation No 1173/2019 The Ethiopian News Service Re-establishment (As Amended) Proclamation | [link](https://www.lawethiopia.com/images/latest%20proclamations/1173_2012%20%20የኢትዮጵያ%20ዜና%20አገልግሎት%20እንደገና%20ማቋቋሚያ.pdf) | in_force | 3 |
-| Proclamation no. 1 1995 Ethiopian Constitution | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/Proclamation%20no.%201%20Constitution%20of%20the%20Federal%20Democratic%20Republic%20of%20Ethiopia.pdf) | in_force | 20 |
+| Proclamation no 1144 Transaction of Minerals | [link](https://www.lawethiopia.com/images/latest proclamations/1144 Proc.-No-1144_2019-Transaction-of-Minerals-Proclamation.pdf) | in_force | 3 |
+| Proclamation No 1173/2019 The Ethiopian News Service Re-establishment (As Amended) Proclamation | [link](https://www.lawethiopia.com/images/latest proclamations/1173_2012  የኢትዮጵያ ዜና አገልግሎት እንደገና ማቋቋሚያ.pdf) | in_force | 3 |
+| Proclamation no. 1 1995 Ethiopian Constitution | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/Proclamation no. 1 Constitution of the Federal Democratic Republic of Ethiopia.pdf) | in_force | 20 |
 | proclamation no. 1003_2017 Rights and Benefits of Outgoing Heads of State and Government, Senior Government Officials, Members of Parliament and Judges | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/1003.pdf) | in_force | 4 |
 | proclamation no. 1025_2017 Radiation and Nuclear Protection | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/1025.pdf) | in_force | 29 |
 | proclamation no. 1048_2017 Railway Transport Administration | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/1048.pdf) | in_force | 51 |
 | proclamation no. 1049_2017 Vital Events Registration and National Identity Card | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/1049.pdf) | in_force | 5 |
 | proclamation no. 1051 _2017 Coffee Marketing and Quality Control | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/1051.pdf) | in_force | 23 |
-| Proclamation no. 1113 Organization of civil societies proclamation | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/Proclamation%20no.%201113%20Organization%20of%20civil%20societies%20of%20Ethiopia%20proclamation.pdf) | in_force | 53 |
-| Proclamation No. 1115 /2019 Ethiopian News Service Re-establishment | [link](https://www.lawethiopia.com/images/latest%20proclamations/1115_2011%20የኢትዮጵያ%20ዜና%20አገልግሎትን%20እንደገና%20ለማቋቋም.pdf) | in_force | 16 |
+| Proclamation no. 1113 Organization of civil societies proclamation | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/Proclamation no. 1113 Organization of civil societies of Ethiopia proclamation.pdf) | in_force | 53 |
+| Proclamation No. 1115 /2019 Ethiopian News Service Re-establishment | [link](https://www.lawethiopia.com/images/latest proclamations/1115_2011 የኢትዮጵያ ዜና አገልግሎትን እንደገና ለማቋቋም.pdf) | in_force | 16 |
 | Proclamation No. 116/1998 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/116.pdf) | in_force | 3 |
-| Proclamation No. 1163/2019 Insurance Business (Amendment) Proclamation | [link](https://www.lawethiopia.com/images/latest%20proclamations/1163_2012%20የመድን%20ሥራ%20አዋጅን%20ለማሻሻል%20የወጣ%20አዋጅ.pdf) | in_force | 7 |
-| Proclamation No. 1164/2019 Microfinance Business (Amendment) Proclamation | [link](https://www.lawethiopia.com/images/latest%20proclamations/1164_2012%20የአነስተኛ%20ፋይናንስ%20ሥራ%20አዋጅን%20ለማሻሻል%20የወጣ%20አዋጅ.pdf) | in_force | 10 |
-| Proclamation No. 1172 /2019 The Ethiopian Press Agency Re-establishment (As Amended) | [link](https://www.lawethiopia.com/images/latest%20proclamations/1172_2012%20የኢትዮጵያ%20ፕሬስ%20ድርጅት%20እንደገና%20ማቋቋሚያ%20አዋጅ%20_ማሻሻያ_.pdf) | in_force | 3 |
-| Proclamation No. 1174/2019 Federal Prison Proclamation | [link](https://www.lawethiopia.com/images/latest%20proclamations/1174_2012%20የፌደራል%20ማረሚያ%20ቤት%20አዋጅ.pdf) | in_force | 71 |
-| Proclamation No. 1176/2020 Prevention and Suppression of Terrorism Crimes | [link](https://www.lawethiopia.com/images/latest%20proclamations/1176%20A%20PROCLAMATION%20TO%20PROVIDE%20FOR%20THE%20PREVENTION%20AND%20SUPPRESSION%20OF%20TERRORISM%20CRIMES.pdf) | in_force | 40 |
-| Proclamation No. 1179./2020 The Civil Aviation (Amendment) Proclamation | [link](https://www.lawethiopia.com/images/latest%20proclamations/1179%20A%20PROCLAMATRION%20TO%20PROVIDE%20FOR%20THE%20AMENDMENT%20OF%20CIVIL%20AVIATION%20PROCLAMATION.pdf) | in_force | 3 |
+| Proclamation No. 1163/2019 Insurance Business (Amendment) Proclamation | [link](https://www.lawethiopia.com/images/latest proclamations/1163_2012 የመድን ሥራ አዋጅን ለማሻሻል የወጣ አዋጅ.pdf) | in_force | 7 |
+| Proclamation No. 1164/2019 Microfinance Business (Amendment) Proclamation | [link](https://www.lawethiopia.com/images/latest proclamations/1164_2012 የአነስተኛ ፋይናንስ ሥራ አዋጅን ለማሻሻል የወጣ አዋጅ.pdf) | in_force | 10 |
+| Proclamation No. 1172 /2019 The Ethiopian Press Agency Re-establishment (As Amended) | [link](https://www.lawethiopia.com/images/latest proclamations/1172_2012 የኢትዮጵያ ፕሬስ ድርጅት እንደገና ማቋቋሚያ አዋጅ _ማሻሻያ_.pdf) | in_force | 3 |
+| Proclamation No. 1174/2019 Federal Prison Proclamation | [link](https://www.lawethiopia.com/images/latest proclamations/1174_2012 የፌደራል ማረሚያ ቤት አዋጅ.pdf) | in_force | 71 |
+| Proclamation No. 1176/2020 Prevention and Suppression of Terrorism Crimes | [link](https://www.lawethiopia.com/images/latest proclamations/1176 A PROCLAMATION TO PROVIDE FOR THE PREVENTION AND SUPPRESSION OF TERRORISM CRIMES.pdf) | in_force | 40 |
+| Proclamation No. 1179./2020 The Civil Aviation (Amendment) Proclamation | [link](https://www.lawethiopia.com/images/latest proclamations/1179 A PROCLAMATRION TO PROVIDE FOR THE AMENDMENT OF CIVIL AVIATION PROCLAMATION.pdf) | in_force | 3 |
 | Proclamation no. 1180 Investment Proclamation | [link](https://www.lawethiopia.com/images/INVESTMENT-PROCLAMATION.pdf) | in_force | 53 |
 | Proclamation no. 1185 Hate Speech and Disinformation Prevention and Suppression | [link](https://www.lawethiopia.com/images/HATE-SPEECH-AND-DISINFORMATION-PREVENTION-AND-SUPPRESSION-PROCLAMATION.pdf) | in_force | 5 |
-| Proclamation no. 1186/2020 Excise Tax Proclamation | [link](https://www.lawethiopia.com/images/EXCISE%20TAX%20PROCLAMATION.pdf) | in_force | 44 |
-| Proclamation No. 1206/2020 Public Enterprises Privatization Proclamation | [link](https://www.lawethiopia.com/images/latest%20proclamations/1206_2012%20የመንግሥት%20የልማት%20ድርጀቶችን%20ወደ%20ግል%20ስለማዛወር%20የወጣ%20አዋጅ.pdf) | in_force | 21 |
-| Proclamation No. 1208/2020 A proclamation to provide Legal personality to Ethiopian Council of Gospel Believers’ Churches and Members | [link](https://www.lawethiopia.com/images/latest%20proclamations/1208_2012%20የኢትዮꬭያ%20%20ወንጌል%20አማኞች%20አብያተ%20ክርስቲያናት%20ካውንስልን%20እና%20አባላቱን%20ህጋዊ%20ሰውነት%20ለመስጠት%20የወጣ%20አዋጅ.pdf) | in_force | 8 |
-| PROCLAMATION NO. 1222/2020 PROCLAMATION TO RATIFY THE MINAMATA CONVENTION | [link](https://www.lawethiopia.com/images/latest%20proclamations/1222_2012%20%20የሚናማታ%20ስምምነት%20ማጽደቂያ%20አዋጅ.pdf) | in_force | 5 |
-| Proclamation No. 1231/2021 The System of Inter-Governmental Relations in the Federal Democratic Republic of Ethiopia’s Determination Proclamation | [link](https://www.lawethiopia.com/images/latest%20proclamations/1231_2013%20በኢትዮጵያ%20ፌደራላዊ%20ዲሞክራሲያዊ%20ሪፐብሊክ%20የመንግሥታት%20ግንኙነት%20ሥርዓት%20መወሰኛ%20አዋጅ.pdf) | in_force | 31 |
-| Proclamation No. 1233/2021 Federal Judicial Administration Proclamation | [link](https://www.lawethiopia.com/images/latest%20proclamations/1233_2013%20የፌደራል%20የዳኝነት%20አስተዳደር%20አዋጅ.pdf) | in_force | 46 |
-| Proclamation No. 1236/2021 Revised Federal Ethics and Anti-Corruption Commission | [link](https://www.lawethiopia.com/images/latest%20proclamations/1236_2013%20የፌዴራል%20የስነ-ምግባርና%20የፀረ%20ሙስና%20ኮሚሽን%20ማቋቋሚያ%20አዋጅ.pdf) | in_force | 25 |
-| Proclamation No. 1237/2021 Arbitration and Conciliation, Working Procedure Proclamation | [link](https://www.lawethiopia.com/images/latest%20proclamations/1237_2013%20የግልግል%20ዳኝነት%20እና%20የዕርቅ%20አሠራር%20ሥርዓት%20አዋጅ.pdf) | in_force | 72 |
-| Proclamation No. 1238/2021 Media Proclamation | [link](https://www.lawethiopia.com/images/latest%20proclamations/1238_2013%20የመገናኛ%20ብዙሃን%20አዋጅ.pdf) | in_force | 77 |
-| Proclamation No. 1246/2021 Ethiopia’s Overseas Employment Proclamation Amendment | [link](https://www.lawethiopia.com/images/latest%20proclamations/1246_2013%20የኢትዮጵያ%20የውጭ%20ሀገር%20ሥራ%20ስምሪት%20ማሻሻያ%20አዋጅ.pdf) | in_force | 2 |
-| Proclamation No. 1250/2021 A System for the determination of the Division of the Federal Subsidy and Joint Revenues | [link](https://www.lawethiopia.com/images/latest%20proclamations/1250_2013የፌደራል%20ድጎማ%20በጀትና%20የጋራ%20ገቢዎች%20ክፍፍል%20ሥርዓት%20መወሰኛ%20አዋጅ.pdf) | in_force | 29 |
-| Proclamation No. 1263/2021 Definition of Powers and Duties of the Executive Organs Proclamation | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/Definition%20of%20Powers%20and%20Duties%20of%20the%20Executive%20Organs%20Proclamation.pdf) | in_force | 89 |
-| Proclamation No. 1274/2022 Road Transport Proclamation | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/የመንገድ%20ትራንስፖርት%20አዋጅ%20%20ቁጥር%201274.pdf) | in_force | 12 |
+| Proclamation no. 1186/2020 Excise Tax Proclamation | [link](https://www.lawethiopia.com/images/EXCISE TAX PROCLAMATION.pdf) | in_force | 44 |
+| Proclamation No. 1206/2020 Public Enterprises Privatization Proclamation | [link](https://www.lawethiopia.com/images/latest proclamations/1206_2012 የመንግሥት የልማት ድርጀቶችን ወደ ግል ስለማዛወር የወጣ አዋጅ.pdf) | in_force | 21 |
+| Proclamation No. 1208/2020 A proclamation to provide Legal personality to Ethiopian Council of Gospel Believers’ Churches and Members | [link](https://www.lawethiopia.com/images/latest proclamations/1208_2012 የኢትዮꬭያ  ወንጌል አማኞች አብያተ ክርስቲያናት ካውንስልን እና አባላቱን ህጋዊ ሰውነት ለመስጠት የወጣ አዋጅ.pdf) | in_force | 8 |
+| PROCLAMATION NO. 1222/2020 PROCLAMATION TO RATIFY THE MINAMATA CONVENTION | [link](https://www.lawethiopia.com/images/latest proclamations/1222_2012  የሚናማታ ስምምነት ማጽደቂያ አዋጅ.pdf) | in_force | 5 |
+| Proclamation No. 1231/2021 The System of Inter-Governmental Relations in the Federal Democratic Republic of Ethiopia’s Determination Proclamation | [link](https://www.lawethiopia.com/images/latest proclamations/1231_2013 በኢትዮጵያ ፌደራላዊ ዲሞክራሲያዊ ሪፐብሊክ የመንግሥታት ግንኙነት ሥርዓት መወሰኛ አዋጅ.pdf) | in_force | 31 |
+| Proclamation No. 1233/2021 Federal Judicial Administration Proclamation | [link](https://www.lawethiopia.com/images/latest proclamations/1233_2013 የፌደራል የዳኝነት አስተዳደር አዋጅ.pdf) | in_force | 46 |
+| Proclamation No. 1236/2021 Revised Federal Ethics and Anti-Corruption Commission | [link](https://www.lawethiopia.com/images/latest proclamations/1236_2013 የፌዴራል የስነ-ምግባርና የፀረ ሙስና ኮሚሽን ማቋቋሚያ አዋጅ.pdf) | in_force | 25 |
+| Proclamation No. 1237/2021 Arbitration and Conciliation, Working Procedure Proclamation | [link](https://www.lawethiopia.com/images/latest proclamations/1237_2013 የግልግል ዳኝነት እና የዕርቅ አሠራር ሥርዓት አዋጅ.pdf) | in_force | 72 |
+| Proclamation No. 1238/2021 Media Proclamation | [link](https://www.lawethiopia.com/images/latest proclamations/1238_2013 የመገናኛ ብዙሃን አዋጅ.pdf) | in_force | 77 |
+| Proclamation No. 1246/2021 Ethiopia’s Overseas Employment Proclamation Amendment | [link](https://www.lawethiopia.com/images/latest proclamations/1246_2013 የኢትዮጵያ የውጭ ሀገር ሥራ ስምሪት ማሻሻያ አዋጅ.pdf) | in_force | 2 |
+| Proclamation No. 1250/2021 A System for the determination of the Division of the Federal Subsidy and Joint Revenues | [link](https://www.lawethiopia.com/images/latest proclamations/1250_2013የፌደራል ድጎማ በጀትና የጋራ ገቢዎች ክፍፍል ሥርዓት መወሰኛ አዋጅ.pdf) | in_force | 29 |
+| Proclamation No. 1263/2021 Definition of Powers and Duties of the Executive Organs Proclamation | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/Definition of Powers and Duties of the Executive Organs Proclamation.pdf) | in_force | 89 |
+| Proclamation No. 1274/2022 Road Transport Proclamation | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/የመንገድ ትራንስፖርት አዋጅ  ቁጥር 1274.pdf) | in_force | 12 |
 | Proclamation No. 187/1999 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/87.pdf) | in_force | 37 |
 | proclamation no. 194/2000 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/194.pdf) | in_force | 14 |
 | Proclamation no. 211/2000 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/211.pdf) | in_force | 37 |
@@ -321,21 +321,21 @@
 | proclamation no. 994_2017 Government Bond | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/994.pdf) | in_force | 5 |
 | proclamation no. 995_2017 Ethiopian Youth Revolving Fund Establishment | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/995.pdf) | in_force | 18 |
 | Proclamation No.1067/2018 Ethiopian Red Cross Society Re-establishment Charter Proclamation | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/1067.pdf) | in_force | 40 |
-| Proclamation No.1088/2018 Proclamation to Repeal Acceptance and Approval of Proclamation No. 1083/2018 of State of Emergency Proclamation No. 2/2018 to defend the Constitution and Constitutional Order from Threat | [link](https://www.lawethiopia.com/images/latest%20proclamations/1088_2010%20%20ሕገ%20መንግስቱን%20እና%20ሕገ%20መንግስታዊ%20ሥርዓቱን%20ከአደጋ%20ለመከላከል%20የወጣውን%20የአስቸኳይ%20ጊዜ%20አዋጅ%20ቁጥር%20፪፪ሺ፲%20ለመቀበልና%20ለማፅደቅ%20የወጣውን.pdf) | in_force | 6 |
-| Proclamation No.1090/2018 Hazardous Waste Management and Disposal Control | [link](https://www.lawethiopia.com/images/latest%20proclamations/1090_2011%20የአደገኛ%20ቆሻሻ%20አያያዝና%20አወጋገድ%20ቁጥጥር.pdf) | in_force | 26 |
-| Proclamation No.1097/2018 Definition of Powers and Duties of the Executive Organs of the Federal Democratic Republic of Ethiopia | [link](https://www.lawethiopia.com/images/latest%20proclamations/Proclamation-No.1097-2018-DEFINITION-OF-THE-POWERS-AND-DUTIES-OF-THE-EXECUTIVE-ORANGS.pdf) | in_force | 32 |
-| Proclamation No.1114/2019 Amendment of the House of Peoples’ Representatives Secretariat Establishment | [link](https://www.lawethiopia.com/images/latest%20proclamations/1114_2011%20የህዝብ%20ተወካዮች%20ምክር%20ቤት%20ጽ_ቤት%20ማቋቋሚያ.pdf) | in_force | 4 |
-| Proclamation No.1178/2020 Prevention and Suppression of Trafficking in Persons and Smuggling of Persons | [link](https://www.lawethiopia.com/images/latest%20proclamations/1178%20A%20PROCLAMATION%20TO%20PROVIDE%20FOR%20THE%20PREVENTION%20AND%20SUPPRESSION%20OF%20TRAFFICKING%20IN%20PERSONS%20AND%20THE%20SMUGGLING%20OF%20PERSONS.pdf) | in_force | 48 |
-| Proclamation No.1205/2020 Electronic Transaction Proclamation | [link](https://www.lawethiopia.com/images/latest%20proclamations/1205_2012%20የኢሌክትሮኒክስ%20ትራንዛክሽን%20አዋጅ.pdf) | in_force | 40 |
-| Proclamation No.1207/2020 A proclamation to provide Legal personality to Ethiopian Islamic Affairs General Council | [link](https://www.lawethiopia.com/images/latest%20proclamations/1207_2012%20የኢትዮꬭያ%20እስልምና%20ጉዳዮች%20ጠቅላይ%20ምክር%20ቤትን%20ህጋዊ%20ሰውነት%20ለመስጠት%20የወጣ%20አዋጅ.pdf) | in_force | 6 |
-| Proclamation No.1211/2020 Special Government Bond Proclamation | [link](https://www.lawethiopia.com/images/latest%20proclamations/1211_2012%20የልዩ%20የመንግሥት%20እዳ%20ሰነድ%20አዋጅ.pdf) | in_force | 6 |
-| Proclamation No.1213/2020 Mining Operations (Amendment) Proclamation | [link](https://www.lawethiopia.com/images/latest%20proclamations/1213_2012%20የማእድን%20ሥራዎች%20አዋጅ%20_ማሻሻያ_%20አዋጅ.pdf) | in_force | 4 |
-| Proclamation No.1220/2020 United Nations Convention on Contracts for the International Sale of Goods Ratification Proclamation | [link](https://www.lawethiopia.com/images/latest%20proclamations/1220_2012%20የተባበሩት%20መንግሥታት%20ዓለም%20አቀፍ%20የእቃዎች%20ሽያጭ%20ውሎች%20ስምምነት%20ማፀደቂያ%20አዋጅ.pdf) | in_force | 5 |
-| Proclamation No.1223/2020 Development, Management and Utilization of Community Watersheds Proclamation | [link](https://www.lawethiopia.com/images/latest%20proclamations/1223_2012%20%20የማህበረሰብ%20ተፋሰሶች%20ልማት፣%20አስተዳደርና%20አጠናቃቀም%20አዋጅ.pdf) | in_force | 39 |
-| Proclamation No.1229/2020 Excise Tax (Amendment) Proclamation | [link](https://www.lawethiopia.com/images/latest%20proclamations/1229_2013%20የኤክሳይዝ%20ታክስ%20(ማሻሻያ)%20አዋጅ.pdf) | in_force | 3 |
+| Proclamation No.1088/2018 Proclamation to Repeal Acceptance and Approval of Proclamation No. 1083/2018 of State of Emergency Proclamation No. 2/2018 to defend the Constitution and Constitutional Order from Threat | [link](https://www.lawethiopia.com/images/latest proclamations/1088_2010  ሕገ መንግስቱን እና ሕገ መንግስታዊ ሥርዓቱን ከአደጋ ለመከላከል የወጣውን የአስቸኳይ ጊዜ አዋጅ ቁጥር ፪፪ሺ፲ ለመቀበልና ለማፅደቅ የወጣውን.pdf) | in_force | 6 |
+| Proclamation No.1090/2018 Hazardous Waste Management and Disposal Control | [link](https://www.lawethiopia.com/images/latest proclamations/1090_2011 የአደገኛ ቆሻሻ አያያዝና አወጋገድ ቁጥጥር.pdf) | in_force | 26 |
+| Proclamation No.1097/2018 Definition of Powers and Duties of the Executive Organs of the Federal Democratic Republic of Ethiopia | [link](https://www.lawethiopia.com/images/latest proclamations/Proclamation-No.1097-2018-DEFINITION-OF-THE-POWERS-AND-DUTIES-OF-THE-EXECUTIVE-ORANGS.pdf) | in_force | 32 |
+| Proclamation No.1114/2019 Amendment of the House of Peoples’ Representatives Secretariat Establishment | [link](https://www.lawethiopia.com/images/latest proclamations/1114_2011 የህዝብ ተወካዮች ምክር ቤት ጽ_ቤት ማቋቋሚያ.pdf) | in_force | 4 |
+| Proclamation No.1178/2020 Prevention and Suppression of Trafficking in Persons and Smuggling of Persons | [link](https://www.lawethiopia.com/images/latest proclamations/1178 A PROCLAMATION TO PROVIDE FOR THE PREVENTION AND SUPPRESSION OF TRAFFICKING IN PERSONS AND THE SMUGGLING OF PERSONS.pdf) | in_force | 48 |
+| Proclamation No.1205/2020 Electronic Transaction Proclamation | [link](https://www.lawethiopia.com/images/latest proclamations/1205_2012 የኢሌክትሮኒክስ ትራንዛክሽን አዋጅ.pdf) | in_force | 40 |
+| Proclamation No.1207/2020 A proclamation to provide Legal personality to Ethiopian Islamic Affairs General Council | [link](https://www.lawethiopia.com/images/latest proclamations/1207_2012 የኢትዮꬭያ እስልምና ጉዳዮች ጠቅላይ ምክር ቤትን ህጋዊ ሰውነት ለመስጠት የወጣ አዋጅ.pdf) | in_force | 6 |
+| Proclamation No.1211/2020 Special Government Bond Proclamation | [link](https://www.lawethiopia.com/images/latest proclamations/1211_2012 የልዩ የመንግሥት እዳ ሰነድ አዋጅ.pdf) | in_force | 6 |
+| Proclamation No.1213/2020 Mining Operations (Amendment) Proclamation | [link](https://www.lawethiopia.com/images/latest proclamations/1213_2012 የማእድን ሥራዎች አዋጅ _ማሻሻያ_ አዋጅ.pdf) | in_force | 4 |
+| Proclamation No.1220/2020 United Nations Convention on Contracts for the International Sale of Goods Ratification Proclamation | [link](https://www.lawethiopia.com/images/latest proclamations/1220_2012 የተባበሩት መንግሥታት ዓለም አቀፍ የእቃዎች ሽያጭ ውሎች ስምምነት ማፀደቂያ አዋጅ.pdf) | in_force | 5 |
+| Proclamation No.1223/2020 Development, Management and Utilization of Community Watersheds Proclamation | [link](https://www.lawethiopia.com/images/latest proclamations/1223_2012  የማህበረሰብ ተፋሰሶች ልማት፣ አስተዳደርና አጠናቃቀም አዋጅ.pdf) | in_force | 39 |
+| Proclamation No.1229/2020 Excise Tax (Amendment) Proclamation | [link](https://www.lawethiopia.com/images/latest proclamations/1229_2013 የኤክሳይዝ ታክስ (ማሻሻያ) አዋጅ.pdf) | in_force | 3 |
 | Proclamation No.1248 /2021 Capital Market Proclamation | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/Capital-Market-Proclamation-No.1248-2021-unlocked.pdf) | in_force | 94 |
-| Proclamation No.1251/2013 Single Audit Proclamation | [link](https://www.lawethiopia.com/images/latest%20proclamations/1251_2013%20የውጭ%20ኦዲት%20ድግግሞሽን%20ለማስቀረት%20የወጣ%20የነጠላ%20ኦዲት%20አዋጅ.pdf) | in_force | 9 |
-| Proclamation No.1267/2022 Public Servants’ Pension Proclamation | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/ስለ%20መንግሥት%20ሠራተኞች%20ጡረታ%20ለመደንገግ%20የወጣ%20አዋጅ%20ቁጥር%201267.pdf) | in_force | 58 |
+| Proclamation No.1251/2013 Single Audit Proclamation | [link](https://www.lawethiopia.com/images/latest proclamations/1251_2013 የውጭ ኦዲት ድግግሞሽን ለማስቀረት የወጣ የነጠላ ኦዲት አዋጅ.pdf) | in_force | 9 |
+| Proclamation No.1267/2022 Public Servants’ Pension Proclamation | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/ስለ መንግሥት ሠራተኞች ጡረታ ለመደንገግ የወጣ አዋጅ ቁጥር 1267.pdf) | in_force | 58 |
 | Proclamation on the Electoral Code of Conduct for | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/662.pdf) | in_force | 34 |
 | Proclamation to Amend Carriage of Goods by Land proclamation no. 547/2007 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/547.ae..pdf) | in_force | 41 |
 | Proclamation to Define the Liability of the Dry Port to the Consignee no. 588/2008 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/588.pdf) | in_force | 9 |
@@ -386,11 +386,11 @@
 | the Federal Democratic Republic of Ethiopia (Amendment) | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/723.pdf) | in_force | 3 |
 | the Federal Democratic Republic of Ethiopia (Proclamation No. 4/1995) | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/4.pdf) | in_force | 27 |
 | The Federal Government of Ethiopia Financial | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/648.pdf) | in_force | 75 |
-| The Federal Government Public Projects Administration and Management System Proclamation | [link](https://www.lawethiopia.com/images/latest%20proclamations/1210_2012%20የፌደራል%20መንግስት%20ፕሮጀክቶች%20አስተዳደር%20እና%20አመራር%20ሥርዓት%20አዋጅ.pdf) | in_force | 25 |
+| The Federal Government Public Projects Administration and Management System Proclamation | [link](https://www.lawethiopia.com/images/latest proclamations/1210_2012 የፌደራል መንግስት ፕሮጀክቶች አስተዳደር እና አመራር ሥርዓት አዋጅ.pdf) | in_force | 25 |
 | the House of Peoples' representatives Legislative | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/271.pdf) | in_force | 27 |
 | The Justice Sector Personnel Training Center Establishment Proclamation no. 364/2003 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/364.pdf) | in_force | 15 |
 | The National Fertilizer Industry Agency Establishment | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/145.pdf) | in_force | 3 |
-| The New Labor Proclamation | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/1156%20New%20labor%20proclamation%20Ethiopia.pdf) | in_force | 171 |
+| The New Labor Proclamation | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/1156 New labor proclamation Ethiopia.pdf) | in_force | 171 |
 | The Proclamation to Provide for a Warehouse Receipts System 372/2003 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/372.pdf) | in_force | 38 |
 | The Reorganization of Executive Organs of | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/256.pdf) | in_force | 21 |
 | The Revised Export Trade Duty Incentive Scheme | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/543.ae..pdf) | in_force | 26 |
@@ -411,179 +411,179 @@
 | Veterinary Drug and Feed Administration and Control Proclamation no. 728/2011 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/728.pdf) | in_force | 23 |
 | with the Constitution of the Federal Democratic Republic | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/438.pdf) | in_force | 13 |
 
-## Excluded / Inaccessible (172)
+## Not Ingested (172)
 
-| Title | Reason |
-|-------|--------|
-| (Amendment) Proclamation no. 328/2003 | inaccessible |
-| Addis Ababa City Police Commission Establishment Council of Ministers' Regulation No. 96/2003 | inaccessible |
-| Amicus Curiae (Friends of the Court) Directive no. 16 | inaccessible |
-| Banking (Amendment ) Proclamation no. 1159 | inaccessible |
-| Basis Council Regulations 8/1996 | inaccessible |
-| Budget administration | inaccessible |
-| Building Directive | inaccessible |
-| Building Regulation no. 243/2011 | inaccessible |
-| Capital Goods Leasing Business Proclamation no. 103/1998 | inaccessible |
-| cash management | inaccessible |
-| Cassation Procedure Directive no. 17 | inaccessible |
-| civil Societies Organization's Directives | Source domain (laws.eag.gov.et) unreachable |
-| Commercial Registration and Business Licensing Proclamation no. 67/1997 | inaccessible |
-| Commercial Registration and Licensing Council of Ministers /Amendment/ Regulation No. 95/2003 | inaccessible |
-| Consolidated Forex Directive | inaccessible |
-| Constitutional and Federalism Indoctrination Center Establishment Proclamation no. 1123 | inaccessible |
-| Copyright and Neighboring Rights Protection Proclamation No. 410/2004 | inaccessible |
-| Council of Ministers Ethiopian Water Resources Management Regulations No. 115/2005 | inaccessible |
-| Council of Ministers Financial (Amendment) Regulations No. 64/1999 | inaccessible |
-| Council of Ministers Financial Administration (Amendment) Regulations No. 71/2001 | inaccessible |
-| Council of Ministers Financial Administration Regulation no. 17/1997 | inaccessible |
-| Council of Ministers Financial Administration Regulation no. 190/2010 | inaccessible |
-| Council of Ministers Regulation no. 118/2005 | inaccessible |
-| Council of Ministers Regulations on Investment incentives and Investment Areas Reserved for Domestic Investors no. 84/2003 | inaccessible |
-| Court Bench Rules Directive | inaccessible |
-| Customs Amendment Proclamation no. 1160/2019 | inaccessible |
-| Customs Clearing Agents Council of Ministers Regulation no. 108 | inaccessible |
-| Customs warehouse License Issuance Council of Ministers Regulations no. 24/1997 | inaccessible |
-| Definition of Powers and Duties and Organization of the Customs Commission Regulation no. 437 | inaccessible |
-| Determining the Procedures of Public Procurement and Establishing the Supervisory Agency Proclamation No 430/2005 | inaccessible |
-| Directive for the registration of construction professionals and contractors | inaccessible |
-| Directive no. 526 Commercial Registration and Licensing | inaccessible |
-| Diredawa Administration Charter Proclamation no. 416/2004 | inaccessible |
-| Disbursement | inaccessible |
-| Download here | inaccessible |
-| Electricity Operations Regulations no. 49/1999 | inaccessible |
-| Electronic Transport Service Directive | inaccessible |
-| Establishment and Determination of the Procedure of the Accounting and Auditing Board of Ethiopia Regulation no. 332/2014 | inaccessible |
-| Establishment of the National Reserve Force Proclamation no. 327/2003 | inaccessible |
-| Establishment Proclamation no. 6/1995 | inaccessible |
-| Ethio-Telecom Establishment (Amendment) Council of Ministers Regulation No. 480/2021 | inaccessible |
-| Ethiopian Electric power Corporation Establishment (Amendment) Regulation 90/2003 | inaccessible |
-| Ethiopian Electric Power Corporation Establishment Regulations 18/1997 | inaccessible |
-| Ethiopian Health Professionals Council Establishment Council of Ministers Regulations no. 76/2002 | inaccessible |
-| Ethiopian Revenues and Customs Authority Employees Administration (Amendment) Regulations no. 408 | inaccessible |
-| Ethiopian Telecommunication Corporation Establishment Council of Ministers Regulations 10/1996 | inaccessible |
-| Ethiopian Telecommunication Corporation Establishment regulation /Amendment/ council of Ministers Regulation 93/2003 | inaccessible |
-| Ethiopian Telecommunications Corporation Establishment Regulations /Amendment/ Council of Ministers Regulations 99/2004 | inaccessible |
-| Ethiopian Trade Point Establishment Council of Ministers Regulations no. 20/1997 | inaccessible |
-| Export Prize Awards Regulations No. 126/2006 | inaccessible |
-| Federal Advocacy Service Licensing and Administration Proclamation No. 1249/2021 | inaccessible |
-| Federal Civil Servants Disciplinary and Grievance Procedure Council of Ministers Regulations no. 77/2002 | inaccessible |
-| Federal Civil Service Commission Establishment Proclamation no. 8/1995 | inaccessible |
-| Federal Civil Service Salary Scale | inaccessible |
-| Federal Police Commission Administration Council of Ministers Regulations 86/2003 | inaccessible |
-| Federal prosecutor Administration Council of Ministers Regulations no. 44/1999 | inaccessible |
-| Federation Council work procedure and code of conduct of members revised directive | inaccessible |
-| Financial Accountability | inaccessible |
-| Financial Calendar | inaccessible |
-| Financial Intelligence Center Establishment Regulation no. 171/2009 | inaccessible |
-| Freight Forwarding and Ship Agency License Issuance Council of Ministers Regulations No. 37/1998 | inaccessible |
-| Government Account | inaccessible |
-| Handover of property among public bodies | inaccessible |
-| Higer Education Cost-sharing Council of Ministers Regulation no. 91/2003 | inaccessible |
-| Importation of Machinery and Goods on Franco Valuta | inaccessible |
-| Information Networks Security Agency Establishment regulation no. 130/2006 | inaccessible |
-| Institute Establishment Council of Ministers | inaccessible |
-| Internal audit | inaccessible |
-| Internal Standards | inaccessible |
-| Inventions, Minor Inventions and Industrial Designs Council of Ministers Regulations No. 12/1997 | inaccessible |
-| Investment Areas Reserved for Domestic | inaccessible |
-| Investment Incentives (Amendment) Council | inaccessible |
-| Investment Incentives and Investment Areas Reserved for Domestic Investors (Amendment) Regulation 146/2008 | inaccessible |
-| Investment Incentives Council of Ministers | inaccessible |
-| Investment Incentives Council of Ministers (Amendment) Regulation 36/1998 | inaccessible |
-| Investment Proclamation no. 280/2002 | inaccessible |
-| Investment Proclamation No. 37/1996 | inaccessible |
-| Investors Council of Ministers | inaccessible |
-| Meles Foundation Establishment Proclamation no. 781/2023 | inaccessible |
-| Micro and Small Enterprises Development Agency Establishment Council of Ministers Regulation no. 33/1998 | inaccessible |
-| Mining operations /Amendment/ Regulation No. 124/2006 | inaccessible |
-| Mining Operations Council of Ministers (Amendment) | inaccessible |
-| Motor Vehicles and Trailers Identification, Inspection and Registration (Amendment) Regulations 74/2001 | inaccessible |
-| National HIV/AIDS Prevention and, Control Council and the HIV/AIDS Prevention and Control Office Establishment Proclamation No. 276/2002 | Source PDF corrupt (invalid XRef table, zero pages) |
-| National Road Traffic 'Safety Council Establishment Regulation no. 205/2011 | inaccessible |
-| of Ministers Regulations No. 9/1996 | inaccessible |
-| Office of the Federal Auditor General Establishment Proclamation No. 68/1997 | inaccessible |
-| Prevention and suppression of Money Laundering and Financing of Terrorisim Proclamation no. 780/2013 | inaccessible |
-| Price of goods and services | inaccessible |
-| Private Employment Agency License Fees Council of Ministers Regulations 34/1998 | inaccessible |
-| Private Employment Agency Proclamation no. 104/1998 | inaccessible |
-| Procedure Proclamation No. 14/1995 | inaccessible |
-| Proclamation No. 1063/2017 Maritime Labour by the International Labour Convention Ratification Proclamation | inaccessible |
-| Proclamation No. 1065/2018 Forest Development, Conservation and Utilization Proclamation | inaccessible |
-| Proclamation No. 1076/2018 Public Private Partnership Proclamation | inaccessible |
-| Proclamation No. 1079/2018 Ethiopian Geospatial Information Agency Re-Establish the Proclamation | inaccessible |
-| Proclamation no. 1110 Refugees Proclamation | inaccessible |
-| Proclamation no. 1235/2021 A proclamation to amend Ethiopian Electoral law | inaccessible |
-| Proclamation no. 177/1999 | inaccessible |
-| Proclamation no. 250/2001 | inaccessible |
-| Proclamation No. 3/1991 for Peaceful Demonstration and Political Meeting | inaccessible |
-| proclamation no. 678 | inaccessible |
-| proclamation no. 746 | inaccessible |
-| proclamation no. 760 Registration of Vital Events and National Identity Card | inaccessible |
-| proclamation no. 767 Chat Excise Tax | inaccessible |
-| proclamation no. 790 Foreign Service | inaccessible |
-| proclamation no. 799 Vehicle Insurance Against Third Party Risks | inaccessible |
-| proclamation no. 802 Mining Income Tax | inaccessible |
-| proclamation no. 804 Nation Intelligence and Security Service Re-establishment | inaccessible |
-| proclamation no. 807 Capital Goods Leasing Business | inaccessible |
-| proclamation no. 809 Defense Forces | inaccessible |
-| proclamation no. 811 Trucks Demurrage | inaccessible |
-| proclamation no. 817 African Youth Charter Ratification | inaccessible |
-| proclamation no. 818 Urban Landholding Registration | inaccessible |
-| proclamation no. 825 Optional Protocol to the Convention on the Rights of the Child on the Sale of Children | inaccessible |
-| proclamation no. 839 Classification of Cultural Heritage in to National and regional | inaccessible |
-| proclamation no. 840 Procedure of Granting and Executing Pardon | inaccessible |
-| proclamation no. 847 Financial Reporting | inaccessible |
-| proclamation no. 849 Investment (amendment) | inaccessible |
-| proclamation no. 858 Ethiopian Broadcasting Corporation Establishment | inaccessible |
-| proclamation no. 859 custom proclamation | inaccessible |
-| proclamation no. 861 Higher Education | inaccessible |
-| proclamation no. 867 Government Bonds Transacted in International market | inaccessible |
-| proclamation no. 872 Copyright and Neighboring Rights Protection | inaccessible |
-| Proclamation no. 947 Convention between Government of the Federal Democratic Republic of Ethiopia and the Government of the Kingdom of Saudi Arabia for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Re | inaccessible |
-| Proclamation no. 948 Convention between the Government of the Federal Democratic Republic of Ethiopia and the Government of the Portuguese Republic for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respec | inaccessible |
-| Proclamation no. 949 Convention between the Government of the Federal Democratic Republic of Ethiopia and the Government of the People’s Republic of Korea for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with | inaccessible |
-| Proclamation no. 950 Convention between the Government of the Federal Democratic Republic of Ethiopia and the Government of Ireland for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on In | inaccessible |
-| Proclamation no. 951Agreement between the Government of the Federal Democratic Republic of Ethiopia and the Government of the United Arab Emirates for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respec | inaccessible |
-| Proclamation no. 952 Convention between the Government of the Federal Democratic Republic of Ethiopia and the Government of the Kingdom of Netherlands for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Res | inaccessible |
-| Proclamation no. 959 Memorandum of Understanding between the Government of the Federal Democratic Republic of Ethiopia and the Government of the People’s Democratic Republic of Algeria Cooperate in the fields of Science and Technology | inaccessible |
-| Proclamation no. 960 | inaccessible |
-| Proclamation no. 962 Agreement between the Government of the Federal Democratic Republic of Ethiopia and the Government of the People’s Democratic Republic of Algeria in the field of Technical and Vocational Education and Training | inaccessible |
-| Proclamation no. 967 Memorandum of Understanding between the Ministry of Foreign Affairs of the Federal Democratic Republic of Ethiopia and the Ministry of Foreign Affairs of the State of Qatar on Conducting Bilateral Consultations R | inaccessible |
-| Proclamation No.1071/2018 Federal Justice and Legal Research and Training Institute Establishment Proclamation | inaccessible |
-| Proclamation No.1072/2018 Electronic Signature Proclamation | inaccessible |
-| Proclamation No.1073/2018 Raw Hides and Skins Marketing (amendment) Proclamation | inaccessible |
-| Proclamation No.1074/2018 Driver’s Qualification Certification License Proclamation | inaccessible |
-| Proclamation No.1082/2018 Proclamation to Ratify The Protocol to the African Charter On Human and Peoples Rights on The Rights of Women in Africa | inaccessible |
-| Proclamation No.1083/2018 Constitution and Constitutional order Defence from Threat State of Emergency Proclamation No.2/2018 Approval Proclamation | inaccessible |
-| Proclamation No1075/2018 Industrial Chemical Registration and Administration Proclamation | inaccessible |
-| Property administration | inaccessible |
-| Providing Foreign Nationals of Ethiopian Origin with certain Rights and Privileges to be exercised in their Country of Origin Regulation 101/2004 | inaccessible |
-| Public Procurement | inaccessible |
-| Public Servants' Pensions Proclamation no. 345/2003 | inaccessible |
-| Quality and Standards Authority of Ethiopia Establishment Proclamation No. 102/1998 | inaccessible |
-| Registration of Ships Council of Ministers Regulations No. 1/1996 | inaccessible |
-| Registration of Works Entitlin§'&gt;'Copyright and Neighboring Rights Council of Ministers Regulation no. 305 | inaccessible |
-| Regulation | inaccessible |
-| Regulation no. 392 Commercial Registration and Licensing | inaccessible |
-| Regulations 7/1996 | inaccessible |
-| Regulations no. 27/1998 | inaccessible |
-| Regulations No. 35/1998 | inaccessible |
-| Regulations no. 4/1996 | inaccessible |
-| Revised Anti-Corruption Special Procedure and Rules of Evidence proclamation no. 434/2005 | inaccessible |
-| Security, Immigration and Refugee Affairs Authority | inaccessible |
-| seed Proclamation no. 782/2013 | inaccessible |
-| Special Public Prosecutors Administration Council of Ministers Regulations no. 72/2001 | inaccessible |
-| Surety-guarantee | inaccessible |
-| Telecom Fraud Offence Proclamation no. 761/2012 | inaccessible |
-| Telecommunication Services Regulations no. 47/1999 | inaccessible |
-| Textile and Apparel Industry Institute Establishment | inaccessible |
-| Textile and Leather Industry Development Center Regulation No.125/2006 | inaccessible |
-| The Council of Ministers Regulation to Provide for the Functioning of Ethics Laison Units Regulation 144/2008 | inaccessible |
-| The Ethiopian Health and Nutrition Research | inaccessible |
-| The Federal Government Financial Administration Proclamation No. 57/1996 | inaccessible |
-| The Mining Proclamation No. 52/1993 | inaccessible |
-| The New Investment Regulation | inaccessible |
-| The Registration and Administration of Charities and Societies Regulation no. 168/2009 | inaccessible |
-| Trade Competition and Consumer Protection proclamation no. 813 | inaccessible |
-| Transport Proclamation no. 468/2005 | inaccessible |
-| Vehicles Identification, Inspection and Registration Fees Council of Ministers Regulation 206/2011 | inaccessible |
+| Title | Official URL | Reason |
+|-------|-------------|--------|
+| (Amendment) Proclamation no. 328/2003 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/Proc%20No.%20328-2003%20Commercial%20Registration%20and%20Business%20lice.pdf) | inaccessible |
+| Addis Ababa City Police Commission Establishment Council of Ministers' Regulation No. 96/2003 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/96.pdf) | inaccessible |
+| Amicus Curiae (Friends of the Court) Directive no. 16 | [link](https://www.lawethiopia.com/index.php/volume-3/6958-amicus-curiae-friends-of-the-court-directive-no-16) | inaccessible |
+| Banking (Amendment ) Proclamation no. 1159 | [link](https://www.lawethiopia.com/public_html/images/federal_proclamation/proclamations_by_number/banking-business-proclamation-1159-2019.pdf) | inaccessible |
+| Basis Council Regulations 8/1996 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/8.pdf) | inaccessible |
+| Budget administration | [link](https://www.lawethiopia.com/images/Documents/Directives_on_Finance/Budget%20administration.pdf) | inaccessible |
+| Building Directive | [link](https://www.lawethiopia.com/images/federal_proclamation/directives/Building%20Directives%20l.pdf) | inaccessible |
+| Building Regulation no. 243/2011 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/243.pdf) | inaccessible |
+| Capital Goods Leasing Business Proclamation no. 103/1998 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/103.pdf) | inaccessible |
+| cash management | [link](https://www.lawethiopia.com/images/Documents/Directives_on_Finance/cash%20management.pdf) | inaccessible |
+| Cassation Procedure Directive no. 17 | [link](https://www.lawethiopia.com/index.php/volume-3/6957-cassation-procedure-directive-no-17) | inaccessible |
+| civil Societies Organization's Directives | [link](http://laws.eag.gov.et/Upload/CassationDecisionsDocument/8559d85e-f6a3-4d37-9ca6-2a8c4844e86e.pdf) | inaccessible |
+| Commercial Registration and Business Licensing Proclamation no. 67/1997 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/67.pdf) | inaccessible |
+| Commercial Registration and Licensing Council of Ministers /Amendment/ Regulation No. 95/2003 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/95.pdf) | inaccessible |
+| Consolidated Forex Directive | [link](https://www.lawethiopia.com/images/consolidated-forex.pdf) | inaccessible |
+| Constitutional and Federalism Indoctrination Center Establishment Proclamation no. 1123 | [link](https://www.lawethiopia.com/index.php/volume-3/6788-constitutional-and-federalism-indoctrination-center-establishment-proclamation-no-1123) | inaccessible |
+| Copyright and Neighboring Rights Protection Proclamation No. 410/2004 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/410.pdf) | inaccessible |
+| Council of Ministers Ethiopian Water Resources Management Regulations No. 115/2005 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/115.pdf) | inaccessible |
+| Council of Ministers Financial (Amendment) Regulations No. 64/1999 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/64.pdf) | inaccessible |
+| Council of Ministers Financial Administration (Amendment) Regulations No. 71/2001 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/71.pdf) | inaccessible |
+| Council of Ministers Financial Administration Regulation no. 17/1997 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/17.pdf) | inaccessible |
+| Council of Ministers Financial Administration Regulation no. 190/2010 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/190.pdf) | inaccessible |
+| Council of Ministers Regulation no. 118/2005 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/118.pdf) | inaccessible |
+| Council of Ministers Regulations on Investment incentives and Investment Areas Reserved for Domestic Investors no. 84/2003 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/84.pdf) | inaccessible |
+| Court Bench Rules Directive | [link](https://www.lawethiopia.com/images/Documents/Ethiopian benchbook/የፌደራል-ፍርድ-ቤቶች-የችሎት-ስርዓት-መመሪያ-የፀደቀ-መሆኑን-ስለማሳወቅ.pdf) | inaccessible |
+| Customs Amendment Proclamation no. 1160/2019 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/የጉምሩክ ማሻሻያ አዋጅ ቁጥር 1160  2011.pdf) | inaccessible |
+| Customs Clearing Agents Council of Ministers Regulation no. 108 | [link](https://www.lawethiopia.com/public_html/images/regulations_by_numbers/108.pdf) | inaccessible |
+| Customs warehouse License Issuance Council of Ministers Regulations no. 24/1997 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/24.pdf) | inaccessible |
+| Definition of Powers and Duties and Organization of the Customs Commission Regulation no. 437 | [link](https://www.lawethiopia.com/images/regulations_by_numbers/437-2011 የጉምሩክ ኮምሽን ተግባር፡ ኃላፊነት እና አደረጃጀት ለመወሰን የወጣ የሚኒስትሮች ምክር ቤት ደንብ.pdf) | inaccessible |
+| Determining the Procedures of Public Procurement and Establishing the Supervisory Agency Proclamation No 430/2005 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/430.pdf) | inaccessible |
+| Directive for the registration of construction professionals and contractors | [link](https://www.lawethiopia.com/images/714 Amended directive for the registration of construction professionals and contractors.pdf) | inaccessible |
+| Directive no. 526 Commercial Registration and Licensing | [link](https://www.lawethiopia.com/images/directives/528 የንግድ ምዝገባ ፍቃድ እና ድህረ ፍቃድ ኢንስፕክሽን መመሪያ  528.pdf) | inaccessible |
+| Diredawa Administration Charter Proclamation no. 416/2004 | [link](https://www.lawethiopia.com/images/416.pdf) | inaccessible |
+| Disbursement | [link](https://www.lawethiopia.com/images/Documents/Directives_on_Finance/Disbursement.pdf) | inaccessible |
+| Download here | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/movable-property-security-right.pdf) | inaccessible |
+| Electricity Operations Regulations no. 49/1999 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/49.pdf) | inaccessible |
+| Electronic Transport Service Directive | [link](https://www.lawethiopia.com/images/Electronic Transport Service Directive.pdf) | inaccessible |
+| Establishment and Determination of the Procedure of the Accounting and Auditing Board of Ethiopia Regulation no. 332/2014 | [link](https://www.lawethiopia.com/public_html/images/regulations_by_numbers/regulation-no-332-2014-establishment-and-determination-of-the-procedure-of-the-accounting-and-auditing-board-of-ethiopia.pdf) | inaccessible |
+| Establishment of the National Reserve Force Proclamation no. 327/2003 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/327pdf) | inaccessible |
+| Establishment Proclamation no. 6/1995 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/6.pdf) | inaccessible |
+| Ethio-Telecom Establishment (Amendment) Council of Ministers Regulation No. 480/2021 | [link](https://www.lawethiopia.com/images/regulations_by_numbers/Ethio-Telecom-Establishment-Amendment-Council-of-Ministers-Regulation-No.-480-2021.pdf) | inaccessible |
+| Ethiopian Electric power Corporation Establishment (Amendment) Regulation 90/2003 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/90.pdf) | inaccessible |
+| Ethiopian Electric Power Corporation Establishment Regulations 18/1997 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/18.pdf) | inaccessible |
+| Ethiopian Health Professionals Council Establishment Council of Ministers Regulations no. 76/2002 | [link](https://www.lawethiopia.com/images/regulations_by_numbers/76.pdf) | inaccessible |
+| Ethiopian Revenues and Customs Authority Employees Administration (Amendment) Regulations no. 408 | [link](https://www.lawethiopia.com/images/regulations_by_numbers/408-2017-የኢትዮጵያ ገቢዎችና ጉምሩክ ባለስልጣን የሰራጠኞች አስተዳደር ለመወሰን የወጣ የሚኒስትሮች ምክር ቤት ደንብ ለማሻሻል የወጣ ደንብ.pdf) | inaccessible |
+| Ethiopian Telecommunication Corporation Establishment Council of Ministers Regulations 10/1996 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/10.pdf) | inaccessible |
+| Ethiopian Telecommunication Corporation Establishment regulation /Amendment/ council of Ministers Regulation 93/2003 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/93.pdf) | inaccessible |
+| Ethiopian Telecommunications Corporation Establishment Regulations /Amendment/ Council of Ministers Regulations 99/2004 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/99.pdf) | inaccessible |
+| Ethiopian Trade Point Establishment Council of Ministers Regulations no. 20/1997 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/20.pdf) | inaccessible |
+| Export Prize Awards Regulations No. 126/2006 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/126.pdf) | inaccessible |
+| Federal Advocacy Service Licensing and Administration Proclamation No. 1249/2021 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/Proclamation-No.-1249-2021-Federal-Advocacy-Service-Licensing-and-Administration.pdf) | inaccessible |
+| Federal Civil Servants Disciplinary and Grievance Procedure Council of Ministers Regulations no. 77/2002 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/77.pdf) | inaccessible |
+| Federal Civil Service Commission Establishment Proclamation no. 8/1995 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/8.pdf) | inaccessible |
+| Federal Civil Service Salary Scale | [link](https://www.lawethiopia.com/images/regulations_by_numbers/Civil service regulation.pdf) | inaccessible |
+| Federal Police Commission Administration Council of Ministers Regulations 86/2003 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/86.pdf) | inaccessible |
+| Federal prosecutor Administration Council of Ministers Regulations no. 44/1999 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/44.pdf) | inaccessible |
+| Federation Council work procedure and code of conduct of members revised directive | [link](https://www.lawethiopia.com/images/directives/ደነንበብ ቁጠጥር 3-V7FMC45t.pdf) | inaccessible |
+| Financial Accountability | [link](https://www.lawethiopia.com/images/Documents/Directives_on_Finance/Financial%20Accountability.pdf) | inaccessible |
+| Financial Calendar | [link](https://www.lawethiopia.com/images/Documents/Directives_on_Finance/FinancialCalendarDirectiveNo.pdf) | inaccessible |
+| Financial Intelligence Center Establishment Regulation no. 171/2009 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/171.pdf) | inaccessible |
+| Freight Forwarding and Ship Agency License Issuance Council of Ministers Regulations No. 37/1998 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/37.pdf) | inaccessible |
+| Government Account | [link](https://www.lawethiopia.com/images/Documents/Directives_on_Finance/Government%20Account.pdf) | inaccessible |
+| Handover of property among public bodies | [link](https://www.lawethiopia.com/images/Documents/Directives_on_Finance/Handover%20of%20porperty%20among%20public%20bodies.pdf) | inaccessible |
+| Higer Education Cost-sharing Council of Ministers Regulation no. 91/2003 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/Reg%20No.%2091-2003%20Higher%20Education%20Cost-Sharing%20Council%20of%20Mi.pdf) | inaccessible |
+| Importation of Machinery and Goods on Franco Valuta | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/8.pdf) | inaccessible |
+| Information Networks Security Agency Establishment regulation no. 130/2006 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/130.pdf) | inaccessible |
+| Institute Establishment Council of Ministers | [link](https://www.lawethiopia.com/images/regulations_by_numbers/4.pdf) | inaccessible |
+| Internal audit | [link](https://www.lawethiopia.com/images/Documents/Directives_on_Finance/Internal%20audit.pdf) | inaccessible |
+| Internal Standards | [link](https://www.lawethiopia.com/images/Documents/Directives_on_Finance/Internal%20Standards.pdf) | inaccessible |
+| Inventions, Minor Inventions and Industrial Designs Council of Ministers Regulations No. 12/1997 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/12.pdf) | inaccessible |
+| Investment Areas Reserved for Domestic | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/55.pdf) | inaccessible |
+| Investment Incentives (Amendment) Council | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/9.pdf) | inaccessible |
+| Investment Incentives and Investment Areas Reserved for Domestic Investors (Amendment) Regulation 146/2008 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/146.pdf) | inaccessible |
+| Investment Incentives Council of Ministers | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/7.pdf) | inaccessible |
+| Investment Incentives Council of Ministers (Amendment) Regulation 36/1998 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/Reg%20No.%2036-1998%20Investment%20Incentives%20Council%20of%20Ministers%20.pdf) | inaccessible |
+| Investment Proclamation no. 280/2002 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/280.pdf) | inaccessible |
+| Investment Proclamation No. 37/1996 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/37.pdf) | inaccessible |
+| Investors Council of Ministers | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/35.pdf) | inaccessible |
+| Meles Foundation Establishment Proclamation no. 781/2023 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/781.pdf) | inaccessible |
+| Micro and Small Enterprises Development Agency Establishment Council of Ministers Regulation no. 33/1998 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/33.pdf) | inaccessible |
+| Mining operations /Amendment/ Regulation No. 124/2006 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/124.pdf) | inaccessible |
+| Mining Operations Council of Ministers (Amendment) | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/27.pdf) | inaccessible |
+| Motor Vehicles and Trailers Identification, Inspection and Registration (Amendment) Regulations 74/2001 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/37.pdf) | inaccessible |
+| National HIV/AIDS Prevention and, Control Council and the HIV/AIDS Prevention and Control Office Establishment Proclamation No. 276/2002 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/276.pdf) | inaccessible |
+| National Road Traffic 'Safety Council Establishment Regulation no. 205/2011 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/205.pdf) | inaccessible |
+| of Ministers Regulations No. 9/1996 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/9.pdf) | inaccessible |
+| Office of the Federal Auditor General Establishment Proclamation No. 68/1997 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/Proc%20No.%2068-1997%20Office%20of%20the%20Federal%20Auditor%20General%20Esta.pdf) | inaccessible |
+| Prevention and suppression of Money Laundering and Financing of Terrorisim Proclamation no. 780/2013 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/780.pdf) | inaccessible |
+| Price of goods and services | [link](https://www.lawethiopia.com/images/Documents/Directives_on_Finance/Price%20of%20goods%20and%20services.pdf) | inaccessible |
+| Private Employment Agency License Fees Council of Ministers Regulations 34/1998 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/34.pdf) | inaccessible |
+| Private Employment Agency Proclamation no. 104/1998 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/104.pdf) | inaccessible |
+| Procedure Proclamation No. 14/1995 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/Proc%20No.%2014-1995%20House%20of%20Peoples'%20Representatives%20legislat.pdf) | inaccessible |
+| Proclamation No. 1063/2017 Maritime Labour by the International Labour Convention Ratification Proclamation | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/1063.pdf) | inaccessible |
+| Proclamation No. 1065/2018 Forest Development, Conservation and Utilization Proclamation | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/1065.pdf) | inaccessible |
+| Proclamation No. 1076/2018 Public Private Partnership Proclamation | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/1076.pdf) | inaccessible |
+| Proclamation No. 1079/2018 Ethiopian Geospatial Information Agency Re-Establish the Proclamation | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/1079.pdf) | inaccessible |
+| Proclamation no. 1110 Refugees Proclamation | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/1110.pdf) | inaccessible |
+| Proclamation no. 1235/2021 A proclamation to amend Ethiopian Electoral law | [link](https://www.lawethiopia.com/images/latest proclamations/1235_2013 የኢትዮጵያ የምርጫ የፖለቲካ ፓርቲዎች ምዝገባና የምርጫ ስነ ምግባር አዋጅ  1162_2019ን ለማሻሻል የወጣ አዋጅ.pdf) | inaccessible |
+| Proclamation no. 177/1999 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/Proc%20No.%20177-1999%20Registration%20and%20Control%20of%20Construction%20.pdf) | inaccessible |
+| Proclamation no. 250/2001 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/Proc%20No.%20250-2001%20Council%20of%20Constitutional%20Inquiry.pdf) | inaccessible |
+| Proclamation No. 3/1991 for Peaceful Demonstration and Political Meeting | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/proclamation no  3 1991.pdf) | inaccessible |
+| proclamation no. 678 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/678.pdf) | inaccessible |
+| proclamation no. 746 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/746.pdf) | inaccessible |
+| proclamation no. 760 Registration of Vital Events and National Identity Card | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/760.pdf) | inaccessible |
+| proclamation no. 767 Chat Excise Tax | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/767.pdf) | inaccessible |
+| proclamation no. 790 Foreign Service | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/790.pdf) | inaccessible |
+| proclamation no. 799 Vehicle Insurance Against Third Party Risks | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/799.pdf) | inaccessible |
+| proclamation no. 802 Mining Income Tax | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/802.pdf) | inaccessible |
+| proclamation no. 804 Nation Intelligence and Security Service Re-establishment | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/804.pdf) | inaccessible |
+| proclamation no. 807 Capital Goods Leasing Business | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/807.pdf) | inaccessible |
+| proclamation no. 809 Defense Forces | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/809.pdf) | inaccessible |
+| proclamation no. 811 Trucks Demurrage | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/811.pdf) | inaccessible |
+| proclamation no. 817 African Youth Charter Ratification | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/817.pdf) | inaccessible |
+| proclamation no. 818 Urban Landholding Registration | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/818.pdf) | inaccessible |
+| proclamation no. 825 Optional Protocol to the Convention on the Rights of the Child on the Sale of Children | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/825.pdf) | inaccessible |
+| proclamation no. 839 Classification of Cultural Heritage in to National and regional | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/839.pdf) | inaccessible |
+| proclamation no. 840 Procedure of Granting and Executing Pardon | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/840.pdf) | inaccessible |
+| proclamation no. 847 Financial Reporting | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/847.pdf) | inaccessible |
+| proclamation no. 849 Investment (amendment) | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/849.pdf) | inaccessible |
+| proclamation no. 858 Ethiopian Broadcasting Corporation Establishment | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/858.pdf) | inaccessible |
+| proclamation no. 859 custom proclamation | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/859.pdf) | inaccessible |
+| proclamation no. 861 Higher Education | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/861.pdf) | inaccessible |
+| proclamation no. 867 Government Bonds Transacted in International market | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/867.pdf) | inaccessible |
+| proclamation no. 872 Copyright and Neighboring Rights Protection | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/872.pdf) | inaccessible |
+| Proclamation no. 947 Convention between Government of the Federal Democratic Republic of Ethiopia and the Government of the Kingdom of Saudi Arabia for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Re | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/947.pdf) | inaccessible |
+| Proclamation no. 948 Convention between the Government of the Federal Democratic Republic of Ethiopia and the Government of the Portuguese Republic for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respec | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/948.pdf) | inaccessible |
+| Proclamation no. 949 Convention between the Government of the Federal Democratic Republic of Ethiopia and the Government of the People’s Republic of Korea for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/949.pdf) | inaccessible |
+| Proclamation no. 950 Convention between the Government of the Federal Democratic Republic of Ethiopia and the Government of Ireland for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on In | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/950.pdf) | inaccessible |
+| Proclamation no. 951Agreement between the Government of the Federal Democratic Republic of Ethiopia and the Government of the United Arab Emirates for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respec | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/951.pdf) | inaccessible |
+| Proclamation no. 952 Convention between the Government of the Federal Democratic Republic of Ethiopia and the Government of the Kingdom of Netherlands for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Res | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/952.pdf) | inaccessible |
+| Proclamation no. 959 Memorandum of Understanding between the Government of the Federal Democratic Republic of Ethiopia and the Government of the People’s Democratic Republic of Algeria Cooperate in the fields of Science and Technology | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/959.pdf) | inaccessible |
+| Proclamation no. 960 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/960.pdf) | inaccessible |
+| Proclamation no. 962 Agreement between the Government of the Federal Democratic Republic of Ethiopia and the Government of the People’s Democratic Republic of Algeria in the field of Technical and Vocational Education and Training | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/962.pdf) | inaccessible |
+| Proclamation no. 967 Memorandum of Understanding between the Ministry of Foreign Affairs of the Federal Democratic Republic of Ethiopia and the Ministry of Foreign Affairs of the State of Qatar on Conducting Bilateral Consultations R | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/967.pdf) | inaccessible |
+| Proclamation No.1071/2018 Federal Justice and Legal Research and Training Institute Establishment Proclamation | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/1071.pdf) | inaccessible |
+| Proclamation No.1072/2018 Electronic Signature Proclamation | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/1072.pdf) | inaccessible |
+| Proclamation No.1073/2018 Raw Hides and Skins Marketing (amendment) Proclamation | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/1073.pdf) | inaccessible |
+| Proclamation No.1074/2018 Driver’s Qualification Certification License Proclamation | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/1074.pdf) | inaccessible |
+| Proclamation No.1082/2018 Proclamation to Ratify The Protocol to the African Charter On Human and Peoples Rights on The Rights of Women in Africa | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/1082.pdf) | inaccessible |
+| Proclamation No.1083/2018 Constitution and Constitutional order Defence from Threat State of Emergency Proclamation No.2/2018 Approval Proclamation | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/1083.pdf) | inaccessible |
+| Proclamation No1075/2018 Industrial Chemical Registration and Administration Proclamation | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/1075.pdf) | inaccessible |
+| Property administration | [link](https://www.lawethiopia.com/images/Documents/Directives_on_Finance/Property%20administration.pdf) | inaccessible |
+| Providing Foreign Nationals of Ethiopian Origin with certain Rights and Privileges to be exercised in their Country of Origin Regulation 101/2004 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/101.pdf) | inaccessible |
+| Public Procurement | [link](https://www.lawethiopia.com/images/Documents/Directives_on_Finance/Public%20Procurement.pdf) | inaccessible |
+| Public Servants' Pensions Proclamation no. 345/2003 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/345.pdf) | inaccessible |
+| Quality and Standards Authority of Ethiopia Establishment Proclamation No. 102/1998 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/102.pdf) | inaccessible |
+| Registration of Ships Council of Ministers Regulations No. 1/1996 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/1.pdf) | inaccessible |
+| Registration of Works Entitlin§'&gt;'Copyright and Neighboring Rights Council of Ministers Regulation no. 305 | [link](https://www.lawethiopia.com/public_html/images/regulations_by_numbers/regulation-no-305-2014-registration-of-works-entitling-copyright.pdf) | inaccessible |
+| Regulation | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/Reg%20No.%2066-2000%20Film%20shooting%20permit%20Council%20of%20Ministers.pdf) | inaccessible |
+| Regulation no. 392 Commercial Registration and Licensing | [link](https://www.lawethiopia.com/images/regulations_by_numbers/ደንብ ቁጥር 392-2016 ሚኒስቴሮች ምክርቤት. pdf.pdf) | inaccessible |
+| Regulations 7/1996 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/7.pdf) | inaccessible |
+| Regulations no. 27/1998 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/27.pdf) | inaccessible |
+| Regulations No. 35/1998 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/35.pdf) | inaccessible |
+| Regulations no. 4/1996 | [link](https://www.lawethiopia.com/images/regulations_by_numbers/4.pdf) | inaccessible |
+| Revised Anti-Corruption Special Procedure and Rules of Evidence proclamation no. 434/2005 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/434.pdf) | inaccessible |
+| Security, Immigration and Refugee Affairs Authority | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/6.pdf) | inaccessible |
+| seed Proclamation no. 782/2013 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/782.pdf) | inaccessible |
+| Special Public Prosecutors Administration Council of Ministers Regulations no. 72/2001 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/72.pdf) | inaccessible |
+| Surety-guarantee | [link](https://www.lawethiopia.com/images/Documents/Directives_on_Finance/Surety-guarantee.pdf) | inaccessible |
+| Telecom Fraud Offence Proclamation no. 761/2012 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/761.pdf) | inaccessible |
+| Telecommunication Services Regulations no. 47/1999 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/47.pdf) | inaccessible |
+| Textile and Apparel Industry Institute Establishment | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/118.pdf) | inaccessible |
+| Textile and Leather Industry Development Center Regulation No.125/2006 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/125.pdf) | inaccessible |
+| The Council of Ministers Regulation to Provide for the Functioning of Ethics Laison Units Regulation 144/2008 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/144.pdf) | inaccessible |
+| The Ethiopian Health and Nutrition Research | [link](https://www.lawethiopia.com/images/regulations_by_numbers/4.pdf) | inaccessible |
+| The Federal Government Financial Administration Proclamation No. 57/1996 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/57.pdf) | inaccessible |
+| The Mining Proclamation No. 52/1993 | [link](https://www.lawethiopia.com/images/federal_proclamation/previous%20laws/51-1993.pdf) | inaccessible |
+| The New Investment Regulation | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/Investment-Regulation-No.-4742020_09-08-2020_0001-2.pdf) | inaccessible |
+| The Registration and Administration of Charities and Societies Regulation no. 168/2009 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/168.pdf) | inaccessible |
+| Trade Competition and Consumer Protection proclamation no. 813 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/813.pdf) | inaccessible |
+| Transport Proclamation no. 468/2005 | [link](https://www.lawethiopia.com/images/federal_proclamation/proclamations_by_number/468.pdf) | inaccessible |
+| Vehicles Identification, Inspection and Registration Fees Council of Ministers Regulation 206/2011 | [link](https://www.lawethiopia.com/images/federal_proclamation/regulations/206.pdf) | inaccessible |
