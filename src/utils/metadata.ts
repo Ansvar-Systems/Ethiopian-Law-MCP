@@ -32,12 +32,12 @@ export function generateResponseMetadata(
   }
 
   return {
-    data_source: 'Ethiopia Law (lawethiopia.com) — National Council for Law Reporting',
-    jurisdiction: 'KE',
+    data_source: 'Federal Negarit Gazette — Ethiopian Laws (chilot.me / negarit.net)',
+    jurisdiction: 'ET',
     disclaimer:
-      'This data is sourced from Ethiopia Law under Government Open Data principles. ' +
-      'The authoritative versions are in English. Swahili translations may be available for some documents. ' +
-      'Always verify with the official Ethiopia Law portal (lawethiopia.com).',
+      'This data is sourced from the Federal Negarit Gazette under Government Open Data principles. ' +
+      'The authoritative versions are published in the Federal Negarit Gazette (Amharic and English). ' +
+      'Always verify with the official portals: chilot.me or negarit.net.',
     freshness,
   };
 }
