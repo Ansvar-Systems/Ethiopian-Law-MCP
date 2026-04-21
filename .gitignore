@@ -12,3 +12,5 @@ data/pdf/
 data/text/
 .claude/
 .serena/
+*-e
+*.bak
