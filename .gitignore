@@ -12,3 +12,8 @@ data/pdf/
 data/text/
 .claude/
 .serena/
+*-e
+*.bak
+.worktrees/
+data/database.db-shm
+data/database.db-wal

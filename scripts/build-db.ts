@@ -450,8 +450,8 @@ function buildDatabase(): void {
     insertMeta.run('built_at', new Date().toISOString());
     insertMeta.run('builder', 'build-db.ts');
     insertMeta.run('jurisdiction', 'ET');
-    insertMeta.run('source', 'lawethiopia.com');
-    insertMeta.run('licence', 'Government Open Data');
+    insertMeta.run('source', 'quarantined — see sources.yml');
+    insertMeta.run('licence', 'n/a — corpus quarantined 2026-04-26');
   });
   writeMeta();
 

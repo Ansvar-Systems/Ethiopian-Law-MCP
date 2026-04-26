@@ -3,30 +3,27 @@ schema_version: "1.0"
 mcp_name: "Ethiopia Law MCP"
 jurisdiction: "ET"
 
-sources:
-  - name: "Ethiopia Official Legal Database"
-    authority: "Government of Ethiopia"
-    official_portal: "https://lawethiopia.com"
-    canonical_identifier: "TBD"
-    retrieval_method: "HTML"
-    api_documentation: "N/A"
-    update_frequency: "TBD"
-    last_ingested: "PENDING_FIRST_INGEST"
-    license_or_terms:
-      type: "Government Publication"
-      url: "https://lawethiopia.com"
-      summary: "Official government legal database; legislation is public domain as government publication"
-    coverage:
-      scope: "TBD -- update after census"
-      limitations: "TBD -- update after census"
-    languages:
-      - "en"
+# CORPUS QUARANTINED 2026-04-26
+#
+# Per the Red MCP Legal Remediation program at
+# Ansvar-Architecture-Documentation/docs/superpowers/specs/2026-04-26-red-mcp-legal-remediation-design.md
+# this MCP no longer ingests from any source while clean primary sources
+# are evaluated for Phase 4 backfill. The container boots and registers the
+# standard MCP tool surface, but search returns no results.
+#
+# Backfill candidates under evaluation (per the program's Phase 0 cards):
+#   - Negarit Gazette via fdre.gov.et (https://www.fdre.gov.et/) — official source;
+#     Phase 0 must verify accessibility from Hetzner
+#   - AfricanLII Ethiopia (https://africanlii.org/akn/et/) — LII curation;
+#     check coverage scope before committing
+#
+# This MCP must NOT be re-pointed at any commercial or third-party legal
+# publisher (including the previously-used source lawethiopia.com) without
+# prior written rights evidence recorded against the entry below.
+
+sources: []
 
 data_freshness:
   automated_checks: false
-  check_frequency: "TBD"
-  last_verified: "2026-02-27"
-
-# Notes:
-# - Source URL: lawethiopia.com
-# - Update this file after completing census and first ingestion
+  check_frequency: "n/a — corpus quarantined"
+  last_verified: "2026-04-26"

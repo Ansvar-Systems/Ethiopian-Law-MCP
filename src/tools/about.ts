@@ -3,8 +3,6 @@
  */
 
 import type Database from '@ansvar/mcp-sqlite';
-import { detectCapabilities, readDbMetadata } from '../capabilities.js';
-import { SERVER_NAME, SERVER_VERSION, REPOSITORY_URL } from '../constants.js';
 
 export interface AboutContext {
   version: string;
@@ -22,8 +20,6 @@ function safeCount(db: InstanceType<typeof Database>, sql: string): number {
 }
 
 export function getAbout(db: InstanceType<typeof Database>, context: AboutContext) {
-  const caps = detectCapabilities(db);
-  const meta = readDbMetadata(db);
 
   const euRefs = safeCount(db, 'SELECT COUNT(*) as count FROM eu_references');
 
@@ -42,15 +38,18 @@ export function getAbout(db: InstanceType<typeof Database>, context: AboutContex
     name: 'Ethiopia Law MCP',
     version: context.version,
     jurisdiction: 'ET',
-    description: 'Ethiopia Law MCP — legislation via Model Context Protocol',
+    description:
+      'Ethiopia Law MCP — corpus quarantined 2026-04-26 pending Phase 4 backfill from official primary sources. The MCP boots and registers tools but search returns no results.',
     stats,
-    data_sources: [
-      {
-        name: 'Ethiopian Legal Information Portal',
-        url: 'https://www.lawethiopia.com',
-        authority: 'Federal Government of Ethiopia',
-      },
-    ],
+    data_sources: [],
+    quarantine: {
+      since: '2026-04-26',
+      reason: 'Source legitimacy remediation — see CHANGELOG.md 2.0.0 and sources.yml.',
+      backfill_candidates: [
+        'https://www.fdre.gov.et/ (Negarit Gazette — Phase 0 accessibility check required)',
+        'https://africanlii.org/akn/et/ (AfricanLII Ethiopia)',
+      ],
+    },
     freshness: {
       database_built: context.dbBuilt,
     },
