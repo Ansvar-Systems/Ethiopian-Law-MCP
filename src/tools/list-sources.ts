@@ -24,6 +24,11 @@ export interface ListSourcesResult {
     document_count: number;
     provision_count: number;
   };
+  quarantine?: {
+    since: string;
+    reason: string;
+    backfill_candidates: string[];
+  };
 }
 
 function safeCount(db: InstanceType<typeof Database>, sql: string): number {
@@ -42,26 +47,21 @@ export async function listSources(
 
   return {
     results: {
-      sources: [
-        {
-          name: 'Ethiopian Legal Information Portal',
-          authority: 'lawethiopia.com (Ethiopian Legal Information Portal)',
-          url: 'https://www.lawethiopia.com',
-          license: 'Government Open Data',
-          coverage:
-            'Federal proclamations, regulations, and directives published in the Federal Negarit Gazette. ' +
-            'Includes the Constitution of Ethiopia (1995), major legislative acts from 1995 to present, ' +
-            'covering administrative law, banking, tax, trade, investment, labor, telecommunications, ' +
-            'criminal law, and more. Most content is bilingual (Amharic/English).',
-          languages: ['en', 'am'],
-        },
-      ],
+      sources: [],
       database: {
         tier: meta.tier,
         schema_version: meta.schema_version,
         built_at: meta.built_at,
         document_count: safeCount(db, 'SELECT COUNT(*) as count FROM legal_documents'),
         provision_count: safeCount(db, 'SELECT COUNT(*) as count FROM legal_provisions'),
+      },
+      quarantine: {
+        since: '2026-04-26',
+        reason: 'Source legitimacy remediation — see CHANGELOG.md 2.0.0 and sources.yml.',
+        backfill_candidates: [
+          'https://www.fdre.gov.et/ (Negarit Gazette — Phase 0 accessibility check required)',
+          'https://africanlii.org/akn/et/ (AfricanLII Ethiopia)',
+        ],
       },
     },
     _metadata: generateResponseMetadata(db),

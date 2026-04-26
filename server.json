@@ -1,13 +1,13 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "eu.ansvar/ethiopian-law-mcp",
-  "description": "Ethiopia legislation via MCP -- full-text search across statutes and provisions",
+  "description": "Ethiopia legislation via MCP — corpus quarantined 2026-04-26 pending Phase 4 backfill from official primary sources",
   "repository": {
-    "url": "https://github.com/Ansvar-Systems/ethiopian-law-mcp",
+    "url": "https://github.com/Ansvar-Systems/Ethiopian-Law-MCP",
     "source": "github"
   },
   "homepage": "https://ansvar.eu",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "license": "Apache-2.0",
   "keywords": [
     "ethiopian-law",
@@ -20,18 +20,9 @@
     {
       "registryType": "npm",
       "identifier": "@ansvar/ethiopian-law-mcp",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "transport": {
         "type": "stdio"
-      }
-    },
-    {
-      "registryType": "npm",
-      "identifier": "@ansvar/ethiopian-law-mcp",
-      "version": "1.0.0",
-      "transport": {
-        "type": "streamable-http",
-        "url": "https://mcp.ansvar.eu/law-et/mcp"
       }
     }
   ]
