@@ -50,7 +50,7 @@
     "validate": "npm run lint && npm run test && npm run test:contract"
   },
   "dependencies": {
-    "@ansvar/mcp-sqlite": "^1.0.0",
+    "@ansvar/mcp-sqlite": "^1.0.5",
     "@modelcontextprotocol/sdk": "^1.12.0",
     "zod": "^3.23.0"
   },
